@@ -42,6 +42,20 @@ The higher a stat is, the better you are at relevant uses of that stat with a sk
 - Persona increases the effectiveness of all of your Talk actions in combat, which support allies or hinder foes.
 - Expertise gives you more Technique Points every round, which are used to improve your attacks in special ways.
 
+## Skills
+
+Skills are used in both combat and non-combat situations, but some Skills are classified as Combat Skills and others Non-Combat Skills. A PC starts with 3 trained Non-Combat Skills and 1 trained Combat Skill, plus an additional 2 trained Skills they can choose as they please. From the Skills a PC has training in, they also select two Skills to specialize in. Being specialized in a skill allows you to effectively attempt skill usages with a `+` next to them; without a specialty, you are not considered trained when attempting specialized usages. Skill usages are written as Skill:Usage, such as Acrobatics:Catch or Perception:Sense.
+
+Every skill usage involves one or two Stats. If only one Stat is listed, add that Stat to your dice result. If two Stats are listed with a slash (`/`) between them, you use the better of those two Stats and subtract 1 from the result. If two Stats are listed with an ampersand (`&`) between them, you add both Stats and subtract 2 from the result. Some occasions might use a different Stat than normal, and a Player can always try to convince the Narrator that a different Skill or Stats can apply in a situation. Using a different Skill or Stat always subtracts at least 1 from the result, depending on how well it applies, and requires the Player to justify that it applies using one of their Techniques.
+
+Events that need a skill attempt can be classified as easy, difficult, or contested.
+
+An easy skill attempt is something a trained professional does all the time, such as a swimming a short distance without a heavy load using Athletics:Swim, or fixing a jammed gun without any time pressure using Mechanics:Repair. Easy skill attempts don't require any roll for characters who are trained in that skill. For characters who aren't trained, easy usages require rolling a dice result of 8 or more.
+
+A difficult skill attempt is one where there is a significant risk on a failure, or a task is simply challenging even for an expert. Examples include decoding a secret message using Education:Decipher, determining whether an unknown plant is safe to eat or has medicinal value with Nature:Wild Lore, and escaping a set of handcuffs using Acrobatics:Escape. Difficult skill attempts always require a roll, and the result needed varies on the task, but is usually 11 or more. After a Player knows their attempt has failed, they can choose to roll and spend Favor Dice to change the result.
+
+A contested skill attempt is one where one or more other characters are opposing your skill attempt. Examples include a thief trying to hide from an unaware guard, which contests the thief's Stealth:Sneak against the guard's Perception:Vigilance, or a customer haggling a merchant over a price, which contests the customer's Influence:Bargain against the merchant's Influence:Bargain. Contested skill attempts require a roll, and the higher result wins (after modifiers are applied). After a Player knows their attempt has failed, they can choose to roll and spend Favor Dice to change the result. In the case of a tie between a PC and NPC, a PC wins if their Player can justify how they act with one of their Techniques, or if they spend a Favor Die. Otherwise, the PC loses the tie automatically. In the case of a tie between opposed PCs, they must roll and spend any available Favor Dice until the tie is broken, or they both lose.
+
 ## Non-Combat Skills:
 
 - **Acrobatics**: Catch {A}, Escape {T/A}, Maneuver {A}, Tumble+ {A}, Moving Recovery {T&A}
@@ -95,7 +109,7 @@ A setting chooses which skill to have, either **Ranged (Military)** or **Ranged 
 
 Unarmed Group:
 
-Unarmed attacks need you to be near your target and make contact. Training with any Unarmed skill makes you resistant to Melee Weapon and Unarmed attacks (you take 1 less damage). Training with any Melee Weapon skill and any Unarmed skill stacks (you take 2 less damage), but multiple Melee Weapon skills do not stack. You do not need a free hand to make Unarmed attacks, and can do so even if you are already using both hands.
+Unarmed attacks need you to be near your target and make contact. Training with any Unarmed skill makes you resistant to Melee Weapon and Unarmed attacks (you take 1 less damage). Training with any Melee Weapon skill and any Unarmed skill stacks (you take 2 less damage), but multiple Unarmed skills do not stack. You do not need a free hand to make Unarmed attacks, and can do so even if you are already using both hands.
 
 - **Unarmed (Brawling)**: Rough Blow {T}, Grapple+ {T}, Challenge {T&P}, Grit+ {T}
   - Boxing, wrestling, street-fighting. Fighting styles that emphasize toughness.
@@ -107,6 +121,8 @@ Unarmed attacks need you to be near your target and make contact. Training with 
 Command Group:
 
 Command attacks need you to be able to communicate visually or verbally with a selected ally and see your target. The selected ally makes the attack using their weapon or an unarmed attack, but uses your skill and stats to determine success instead of their own. Training with any Command skill makes you resistant to any attacks made via a Command skill (you take 2 less damage). Training with any Command skill stacks with any applicable resistances from other Combat skills, but multiple Command skills do not stack. Using a Command skill to attack makes it impossible to use Stealth skills against your target. Weather and noisy conditions can weaken Command attacks.
+
+If you use a Technique with a Command attack, it treats the character issuing the command as the attacker. Counterattacks or other responses to an attack apply to the character receiving the command.
 
 - **Command (Riot)**: Mob Rule {P}, Incite+ {P}, Vandalize {A/P}, Guerrilla Movement {A}
   - Attack by rousing a group of allies to fight; relies purely on anger and passion.
