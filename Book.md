@@ -7,7 +7,7 @@ There is one Narrator at the table, and one or more players. The Narrator lays o
 
 The success or failure of actions are determined by dice. Unlike many other role-playing games, in combat players know the values of their dice at the start of each round, before they decide to take actions. The dice rolled at the start of the round also determine the order in which characters, both PCs and NPCs, will act. Outside of combat, situations involve a mix of dice rolled for everyone at the start of the encounter, and dice rolled additionally over time.
 
-Dice rolls are normally done by rolling and adding up 3 six-sided dice at the start of the round, then adding any relevant modifiers at the time an action occurs. The lowest dice rolls go first in a round, and when those characters act, their actions are the least likely to succeed, if they are difficult or challenged activities like attacks. The highest dice rolls go last in a round, and are the most likely to succeed. A character can choose to delay their turn until after any another character's turn, or after a declared event happens. If the declared event doesn't ever happen, that character's turn is wasted. Some actions may involve rolling a few different dice when you choose an action; these are always six-sided dice, and they do not change your dice for the round.
+Dice rolls are normally done by rolling and adding up 4 six-sided dice at the start of the round, then adding any relevant modifiers at the time an action occurs. The lowest dice rolls go first in a round, and when those characters act, their actions are the least likely to succeed, if they are difficult or challenged activities like attacks. The highest dice rolls go last in a round, and are the most likely to succeed. A character can choose to delay their turn until after any another character's turn, or after a declared event happens. If the declared event doesn't ever happen, that character's turn is wasted. Some actions may involve rolling a few different dice when you choose an action; these are always six-sided dice, and they do not change your dice for the round.
 
 Typically, the PCs travel as a group along with some friendly NPCs, who might include hired workers, beasts of burden, or people the PCs are aiding or escorting. Friendly NPCs usually don't fight; that responsibility lies with the PCs. Friendly NPCs can also include former PCs who aren't able to act normally for some reason (such as their player not being at the table). The reason is up to the Narrator while a Player isn't present, and could range from a sprained ankle to a random fever making it better that that character sits out during combat. When the Player returns, control of their PC returns to them unless they want to create a different character or control a friendly NPC (with the Narrator's approval).
 
@@ -56,7 +56,7 @@ A difficult skill attempt is one where there is a significant risk on a failure,
 
 A contested skill attempt is one where one or more other characters are opposing your skill attempt. Examples include a thief trying to hide from an unaware guard, which contests the thief's Stealth:Sneak against the guard's Perception:Vigilance, or a customer haggling a merchant over a price, which contests the customer's Influence:Bargain against the merchant's Influence:Bargain. Contested skill attempts require a roll, and the higher result wins (after modifiers are applied). After a Player knows their attempt has failed, they can choose to roll and spend Favor Dice to change the result. In the case of a tie between a PC and NPC, a PC wins if their Player can justify how they act with one of their Techniques, or if they spend a Favor Die. Otherwise, the PC loses the tie automatically. In the case of a tie between opposed PCs, they must roll and spend any available Favor Dice until the tie is broken, or they both lose.
 
-## Non-Combat Skills:
+### Non-Combat Skills:
 
 - **Acrobatics**: Catch {A}, Escape {T/A}, Maneuver {A}, Tumble+ {A}, Moving Recovery {T&A}
 - **Athletics**: Climb {T}, Endure {T}, Jump {T/A}, Swim {T/A}, Team Play {A&P}
@@ -70,7 +70,7 @@ A contested skill attempt is one where one or more other characters are opposing
 - **Perception**: Insight {P}, Search {E}, Sense {A}, Vigilance {T}, Self Awareness {T/P}
 - **Stealth**: Camouflage {A}, Bypass+ {A&E}, Sneak {A}, Subtlety {P}, Culture Blend {P}
 
-## Combat Skills:
+### Combat Skills:
 
 Melee Weapon Group:
 
@@ -78,7 +78,7 @@ Melee Weapon attacks need you to be near your target and have your weapon ready.
 
 - **Melee (Large)**: Power Smash {T}, Sweep+ {T}, Maintain {E}, Execution+ {T&P}
   - Two-handed melee weapons, except spears. Axes, hammers, cudgels, big polearms, etc.
-  - These are weapons that generally are big enough that dodging is your best defense.
+  - These are weapons that generally are big enough that dodging them is your best defense.
 - **Melee (Balanced)**: Measured Strike {T/A}, Parry+ {A&E}, Maintain {E}, Flourish+ {P}
   - One-handed swords, all spears, fencing weapons, shields.
   - These are weapons that can be used to block an opponent's close-quarters attacks.
@@ -130,3 +130,13 @@ If you use a Technique with a Command attack, it treats the character issuing th
   - Attack by pointing allies to holes in enemy defenses; predicts battle scenarios.
 - **Command (United)**: Trusting Gambit {P}, Coordinate+ {P}, Detect Loyalty {E&P}, Heroism {P}
   - Attack by using a deep bond with close allies to appear weak and make foes act rashly.
+
+## Techniques
+
+Techniques are one of the ways a character's personality is defined with mechanics. A character is created knowing three different tiers of progressively stronger Techniques, with two known Technique at each tier. Using a Technique in battle costs Technique Points (TP), which you accrue over combat. At the start of every round, a player accrues 1 TP, plus an additional TP for each of their round dice that had a value of their Expertise or less. This means low round dice results give you TP, as well as make your turn come earlier in the round, but make your actions on that turn less effective. As an example, if a character with 2 Expertise rolls `1, 2, 3, 4` for their round dice, the rolls of 1 and 2 each give +1 TP on top of the 1 TP every character gets, for a total of 3 TP. TP don't need to be spent right away, but any TP left over at the end of a combat are wasted.
+
+Every Technique is applied in combat to a single pair of an attacker and a defender when an attack is declared. Even if an Item allows you to attack multiple opponents at once, your Technique still only applies to one defender. This is always the first defender the attack resolves against, though you can choose which defender is resolved first. A Technique also applies its effects even if the attack misses or is partially resisted. Some Techniques, mostly magical ones, affect all characters in the combat or all characters allied with the attacker or defender.
+
+The three tiers of Technique are simply Tier 1, Tier 2, and Tier 3, which cost 2 TP, 4 TP, and 6 TP respectively. Most techniques affect the Light and Heavy damage an attack does (raising or lowering either or both), and all have an additional affect that usually changes the Offense and Defense tracks in some way. For example, the Tier 2 Technique **Furious** makes an attack deal -4 Light damage, +6 Heavy damage, and raises the attacker's Offense by 2 steps when declared. Another example is the Tier 1 Technique **Deceitful**, which makes an attack deal +4 Light damage, -3 Heavy damage, and if the defender has a Defense penalty when declared, that penalty becomes `---`.
+
+Outside of combat, the Tier of a Technique doesn't matter, and how they are applied uses some creative thinking from the Players. Each Technique lists some cases where it could be used as a benefit, and some cases where it could be used as a handicap (to earn Favor Dice, regardless of the result of the skill). If a technique applies as a benefit, it grants +4 to the skill result. If a technique applies as a handicap, the Player can opt to take -4 to the skill result, and the Player gains a Favor die after the skill resolves. If there isn't a clearly applicable Technique a PC knows for a situation, but their Player has a good idea for how one they do know could apply, they can try to persuade the Narrator that it applies by taking a -1 penalty on the skill result. If the Narrator agrees that it applies, the normal rules apply on top of the -1 penalty for "off-label usage." In the case of the **Furious** Technique mentioned earlier, it can apply as a benefit if the character needs to look intimidating or break something, or apply as a handicap if a task is especially annoying or frustrating. In the case of the **Deceitful** Technique, it can apply as a benefit to any tasks involving lying or trickery, or apply as a handicap if the character's reputation is in question or the character is trying to convince someone they aren't lying.
