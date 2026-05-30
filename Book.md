@@ -59,16 +59,27 @@ A contested skill attempt is one where one or more other characters are opposing
 ### Non-Combat Skills:
 
 - **Acrobatics**: Catch {A}, Escape {T/A}, Maneuver {A}, Tumble+ {A}, Moving Recovery {T&A}
+   - Training in Acrobatics also makes you Resistant 1 to Melee Weapon attack rolls.
 - **Athletics**: Climb {T}, Endure {T}, Jump {T/A}, Swim {T/A}, Team Play {A&P}
+   - Training in Athletics also gives +1 to Melee Weapon Skill rolls.
 - **Deception**: Bluff {P}, Disguise {P}, Forgery {E}, Legerdemain {A&P}, Feign Health {T}
+   - Training in Deception also makes you Resistant 1 to Command attack rolls.
 - **Education**: Decipher {E}, Solve+ {E}, Research {E}, Write {P/E}, Broad Learning {E}
+	- Training in Education also gives +1 to Mechanics rolls.
 - **Focus**: Calm {P}, Concentrate {T}, Second Wind {T}, Resist Pain {T}, Courage {T/P}
+   - Training in Focus also makes you Resistant 1 to Unarmed attack rolls.
 - **Healing**: First Aid {T/E}, Pharmacology+ {E}, Surgery+ {A&E}, Therapy {P}, Care {P}
+   - Training in Healing also gives +1 to Unarmed Skill rolls.
 - **Influence**: Bargain {P}, Befriend {P}, Bribe {P&E}, Intimidate {T/P}, Entertain {P}
+   - Training in Influence also gives +1 to Command Skill rolls.
 - **Mechanics**: Demolish+ {E}, Fine Tune+ {A&E}, Jury Rig {T/A}, Repair {E}, Gauge {E}
+   - Training in Mechanics also gives +1 to Ranged Weapon Skill rolls.
 - **Nature**: Handle Animal {P}, Wild Lore {E}, Survival {T}, Track+ {A}, Ride {T/A}
+	- Training in Nature also gives +1 to Healing rolls.
 - **Perception**: Insight {P}, Search {E}, Sense {A}, Vigilance {T}, Self Awareness {T/P}
+   - Training in Perception also gives +1 to Stealth rolls.
 - **Stealth**: Camouflage {A}, Bypass+ {A&E}, Sneak {A}, Subtlety {P}, Culture Blend {P}
+   - Training in Stealth also makes you Resistant 1 to Ranged Weapon attack rolls.
 
 ### Combat Skills:
 
