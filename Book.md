@@ -154,13 +154,20 @@ Outside of combat, the Tier of a Technique doesn't matter, and how they are appl
 
 Techniques that work using supernatural powers may have special rules regarding out-of-combat uses. A Technique like **Scorching**, which creates and controls fire, is rather versatile and applies as a benefit in a wide variety of situations. Being able to manipulate fire can be intimidating, can be used to destroy objects, can create distractions, can be used to create warmth and light, and so on. As a counterbalance to this, **Scorching** and several other supernatural Techniques can be applied as a handicap at the Narrator's option, rather than when the player chooses. This only can happen if that Technique has been applied a benefit already in that situation. In this case, using fiery magic can start extra fires unintentionally, often at inopportune times. A Technique like **Dazing**, which uses psychic power to affect someone's mind, is also versatile, and can also be applied as a handicap at the Narrator's option after it has applied as a benefit. In this case, the handicap is special, and while it still gives the player a Favor die, it doesn't impose a penalty or grant the Favor die immediately. Using psychic powers alerts nearby supernatural characters, who can impose the handicap when they interact with the psychic character (granting Favor dice to the psychic then).
 
-### Normal Techniques
+### Normal Techniques (In-Combat)
 
 Tier 1         | Light | Heavy | Special
 ---------------- | ------ | ------ | ----------------------------------------------------------------------
-Bending          | +2     | -2     | Before: If you have a Defense penalty, set it to `0`.
-Deceitful        | +4     | -3     | Before: If the target has a Defense penalty, set it to `---`.
-Cautious         | +1     | +0     | Before: Your Defense improves by 1 step.
 Angry            | -4     | +5     | Before: Your Offense improves by 1 step.
-Gripping         | +0     | +0     | Before: Set the target's Offense and Defense both to `0`.
+Cautious         | +1     | +0     | Before: Your Defense improves by 1 step.
+Taxing           | +2     | +3     | After: Your Offense worsens by 1 step.
+Reckless         | +0     | +5     | After: Your Defense worsens by 1 step.
+Smug             | -2     | +1     | Before: The target's Offense worsens by 1 step.
 Probing          | +4     | -3     | Before: The target's Defense worsens by 1 step.
+Calm             | -1     | -2     | Before: If you have an Offense penalty, set it to `0`.
+Quick            | +2     | -2     | Before: If you have a Defense penalty, set it to `0`.
+Fierce           | -3     | +1     | Before: If you have an Offense penalty, flip it to a bonus.
+Steadfast        | -2     | +0     | Before: If you have a Defense penalty, flip it to a bonus.
+Deceitful        | +4     | -3     | Before: If the target has a Defense penalty, set it to `---`.
+Gripping         | +0     | +0     | Before: Set the target's Offense and Defense both to `0`.
+
