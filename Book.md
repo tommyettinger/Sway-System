@@ -210,3 +210,16 @@ Artful           | +3     | -2     | Before: If your target has an Offense bonus
 Gutsy            | -2     | +3     | Before: If your target has a Defense bonus, flip it to a penalty.
 Dazing (S)       | -1     | +5     | Before: If the target has an Offense penalty, set it to `---`.
 Nefarious        | +6     | -2     | Before: If the target has a Defense penalty, set it to `---`.
+Raucous          | -3     | +10    | After: If the target has an Offense bonus, set it to `+++`.
+Sickening        | +6     | +1     | After: If the target has a Defense bonus, set it to `+++`.
+Radiant (S)      | +8     | -1     | After: If you have an Offense penalty, set it to `---`.
+Mysterious (S)   | +11    | -4     | After: If you have a Defense penalty, set it to `---`.
+Frightening      | -3     | +4     | Before: All enemies' Offense worsens by 1 step.
+Comical          | +5     | -4     | Before: All enemies' Defense worsens by 1 step.
+Bold             | -1     | +2     | Before: All other allies' Offense improves by 1 step.
+Protective       | +0     | +1     | Before: All other allies' Defense improves by 1 step.
+Frosty (S)       | +7     | +3     | After: All allies' Offense worsens by 1 step.
+Wicked (S)       | +0     | +10    | After: All allies' Defense worsens by 1 step.
+Rumbling (S)     | -4     | +10    | After: All characters' Offense worsens by 1 step.
+Torrential (S)   | +5     | +1     | After: All characters' Defense worsens by 1 step.
+Wrestling        | +1     | +2     | Before: Set the target's Offense and Defense both to `0`.
