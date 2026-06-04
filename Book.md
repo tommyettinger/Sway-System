@@ -176,9 +176,15 @@ Dueling          | +0     | -2     | Before: If your target has an Offense bonus
 Plucky           | +0     | -2     | Before: If your target has a Defense bonus, flip it to a penalty.
 Disorienting (S) | -2     | +3     | Before: If the target has an Offense penalty, set it to `---`.
 Deceitful        | +4     | -3     | Before: If the target has a Defense penalty, set it to `---`.
+Rowdy            | -3     | +8     | After: If the target has an Offense bonus, set it to `+++`.
+Nasty            | +5     | +0     | After: If the target has a Defense bonus, set it to `+++`.
+Bright (S)       | +7     | -2     | After: If you have an Offense penalty, set it to `---`.
+Strange (S)      | +9     | -4     | After: If you have a Defense penalty, set it to `---`.
 Scary            | -3     | +1     | Before: All enemies' Offense worsens by 1 step.
 Quirky           | +2     | -4     | Before: All enemies' Defense worsens by 1 step.
 Leading          | -2     | +0     | Before: All other allies' Offense improves by 1 step.
 Protective       | -1     | -1     | Before: All other allies' Defense improves by 1 step.
+Chilling (S)     | +6     | +2     | After: All allies' Offense worsens by 1 step.
+Cruel (S)        | +0     | +8     | After: All allies' Defense worsens by 1 step.
 Gripping         | +0     | +0     | Before: Set the target's Offense and Defense both to `0`.
 
