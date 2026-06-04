@@ -160,32 +160,32 @@ Tier 1         | Light | Heavy | Special
 ---------------- | ------ | ------ | ----------------------------------------------------------------------
 Angry            | -4     | +5     | Before: Your Offense improves by 1 step.
 Cautious         | +1     | +0     | Before: Your Defense improves by 1 step.
-Smug             | -2     | +1     | Before: The target's Offense worsens by 1 step.
+Smug             | -2     | +3     | Before: The target's Offense worsens by 1 step.
 Testing          | +4     | -3     | Before: The target's Defense worsens by 1 step.
-Taxing           | +2     | +3     | After: Your Offense worsens by 1 step.
-Reckless         | +0     | +5     | After: Your Defense worsens by 1 step.
-Searing (S)      | +4     | +1     | After: the target's Offense improves by 1 step.
-Hardening (S)    | +0     | +5     | After: the target's Defense improves by 1 step.
-Calm             | -1     | -2     | Before: If you have an Offense penalty, set it to `0`.
+Taxing           | +1     | +3     | After: Your Offense worsens by 1 step.
+Reckless         | +0     | +4     | After: Your Defense worsens by 1 step.
+Searing (S)      | +3     | +1     | After: the target's Offense improves by 1 step.
+Hardening (S)    | +0     | +4     | After: the target's Defense improves by 1 step.
+Calm             | +1     | -1     | Before: If you have an Offense penalty, set it to `0`.
 Quick            | +3     | -3     | Before: If you have a Defense penalty, set it to `0`.
 Insulting        | +2     | -2     | Before: If the target has an Offense bonus, set it to `0`.
 Insistent        | +1     | -1     | Before: If the target has a Defense bonus, set it to `0`.
 Fierce           | -3     | +1     | Before: If you have an Offense penalty, flip it to a bonus.
 Steadfast        | -2     | +0     | Before: If you have a Defense penalty, flip it to a bonus.
 Dueling          | +0     | -2     | Before: If your target has an Offense bonus, flip it to a penalty.
-Plucky           | +0     | -2     | Before: If your target has a Defense bonus, flip it to a penalty.
+Plucky           | -3     | +1     | Before: If your target has a Defense bonus, flip it to a penalty.
 Disorienting (S) | -2     | +3     | Before: If the target has an Offense penalty, set it to `---`.
 Deceitful        | +4     | -3     | Before: If the target has a Defense penalty, set it to `---`.
-Rowdy            | -3     | +8     | After: If the target has an Offense bonus, set it to `+++`.
-Nasty            | +5     | +0     | After: If the target has a Defense bonus, set it to `+++`.
-Bright (S)       | +7     | -2     | After: If you have an Offense penalty, set it to `---`.
-Strange (S)      | +9     | -4     | After: If you have a Defense penalty, set it to `---`.
+Rowdy            | -3     | +7     | After: If the target has an Offense bonus, set it to `+++`.
+Nasty            | +4     | +0     | After: If the target has a Defense bonus, set it to `+++`.
+Bright (S)       | +6     | -2     | After: If you have an Offense penalty, set it to `---`.
+Strange (S)      | +8     | -4     | After: If you have a Defense penalty, set it to `---`.
 Scary            | -3     | +1     | Before: All enemies' Offense worsens by 1 step.
 Quirky           | +2     | -4     | Before: All enemies' Defense worsens by 1 step.
 Leading          | -2     | +0     | Before: All other allies' Offense improves by 1 step.
 Protective       | -1     | -1     | Before: All other allies' Defense improves by 1 step.
-Chilling (S)     | +6     | +2     | After: All allies' Offense worsens by 1 step.
-Cruel (S)        | +0     | +8     | After: All allies' Defense worsens by 1 step.
+Chilling (S)     | +5     | +2     | After: All allies' Offense worsens by 1 step.
+Cruel (S)        | +0     | +7     | After: All allies' Defense worsens by 1 step.
 Trembling (S)    | -4     | +7     | After: All characters' Offense worsens by 1 step.
 Splashing (S)    | +3     | +0     | After: All characters' Defense worsens by 1 step.
 Gripping         | +0     | +0     | Before: Set the target's Offense and Defense both to `0`.
@@ -194,9 +194,9 @@ Tier 2         | Light | Heavy | Special
 ---------------- | ------ | ------ | ----------------------------------------------------------------------
 Furious          | -4     | +6     | Before: Your Offense improves by 2 steps.
 Guarded          | +2     | +0     | Before: Your Defense improves by 2 steps.
-Cocky            | -2     | +2     | Before: The target's Offense worsens by 2 steps.
+Cocky            | -2     | +4     | Before: The target's Offense worsens by 2 steps.
 Probing          | +5     | -3     | Before: The target's Defense worsens by 2 steps.
-Strenuous        | +3     | +5     | After: Your Offense worsens by 1 step.
-Risky            | +0     | +8     | After: Your Defense worsens by 1 step.
-Scorching (S)    | +6     | +2     | After: the target's Offense improves by 1 step.
-Solidifying (S)  | +0     | +8     | After: the target's Defense improves by 1 step.
+Strenuous        | +2     | +5     | After: Your Offense worsens by 1 step.
+Risky            | +0     | +7     | After: Your Defense worsens by 1 step.
+Scorching (S)    | +5     | +2     | After: the target's Offense improves by 1 step.
+Solidifying (S)  | +0     | +7     | After: the target's Defense improves by 1 step.
