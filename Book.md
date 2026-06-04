@@ -161,7 +161,7 @@ Tier 1         | Light | Heavy | Special
 Angry            | -4     | +5     | Before: Your Offense improves by 1 step.
 Cautious         | +1     | +0     | Before: Your Defense improves by 1 step.
 Smug             | -2     | +1     | Before: The target's Offense worsens by 1 step.
-Probing          | +4     | -3     | Before: The target's Defense worsens by 1 step.
+Testing          | +4     | -3     | Before: The target's Defense worsens by 1 step.
 Taxing           | +2     | +3     | After: Your Offense worsens by 1 step.
 Reckless         | +0     | +5     | After: Your Defense worsens by 1 step.
 Searing (S)      | +4     | +1     | After: the target's Offense improves by 1 step.
@@ -186,5 +186,17 @@ Leading          | -2     | +0     | Before: All other allies' Offense improves 
 Protective       | -1     | -1     | Before: All other allies' Defense improves by 1 step.
 Chilling (S)     | +6     | +2     | After: All allies' Offense worsens by 1 step.
 Cruel (S)        | +0     | +8     | After: All allies' Defense worsens by 1 step.
+Trembling (S)    | -4     | +7     | After: All characters' Offense worsens by 1 step.
+Splashing (S)    | +3     | +0     | After: All characters' Defense worsens by 1 step.
 Gripping         | +0     | +0     | Before: Set the target's Offense and Defense both to `0`.
 
+Tier 2         | Light | Heavy | Special
+---------------- | ------ | ------ | ----------------------------------------------------------------------
+Furious          | -4     | +6     | Before: Your Offense improves by 2 steps.
+Guarded          | +2     | +0     | Before: Your Defense improves by 2 steps.
+Cocky            | -2     | +2     | Before: The target's Offense worsens by 2 steps.
+Probing          | +5     | -3     | Before: The target's Defense worsens by 2 steps.
+Strenuous        | +3     | +5     | After: Your Offense worsens by 1 step.
+Risky            | +0     | +8     | After: Your Defense worsens by 1 step.
+Scorching (S)    | +6     | +2     | After: the target's Offense improves by 1 step.
+Solidifying (S)  | +0     | +8     | After: the target's Defense improves by 1 step.
