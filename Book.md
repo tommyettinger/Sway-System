@@ -172,7 +172,13 @@ Insulting        | +2     | -2     | Before: If the target has an Offense bonus,
 Insistent        | +1     | -1     | Before: If the target has a Defense bonus, set it to `0`.
 Fierce           | -3     | +1     | Before: If you have an Offense penalty, flip it to a bonus.
 Steadfast        | -2     | +0     | Before: If you have a Defense penalty, flip it to a bonus.
+Dueling          | +0     | -2     | Before: If your target has an Offense bonus, flip it to a penalty.
+Plucky           | +0     | -2     | Before: If your target has a Defense bonus, flip it to a penalty.
 Disorienting (S) | -2     | +3     | Before: If the target has an Offense penalty, set it to `---`.
 Deceitful        | +4     | -3     | Before: If the target has a Defense penalty, set it to `---`.
+Scary            | -3     | +1     | Before: All enemies' Offense worsens by 1 step.
+Quirky           | +2     | -4     | Before: All enemies' Defense worsens by 1 step.
+Leading          | -2     | +0     | Before: All other allies' Offense improves by 1 step.
+Protective       | -1     | -1     | Before: All other allies' Defense improves by 1 step.
 Gripping         | +0     | +0     | Before: Set the target's Offense and Defense both to `0`.
 
