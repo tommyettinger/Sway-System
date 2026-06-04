@@ -200,3 +200,13 @@ Strenuous        | +2     | +5     | After: Your Offense worsens by 1 step.
 Risky            | +0     | +7     | After: Your Defense worsens by 1 step.
 Scorching (S)    | +5     | +2     | After: the target's Offense improves by 1 step.
 Solidifying (S)  | +0     | +7     | After: the target's Defense improves by 1 step.
+Tranquil         | +3     | +0     | Before: If you have an Offense penalty, set it to `0`.
+Elusive          | +6     | -3     | Before: If you have a Defense penalty, set it to `0`.
+Mocking          | +4     | -1     | Before: If the target has an Offense bonus, set it to `0`.
+Dogged           | +3     | +0     | Before: If the target has a Defense bonus, set it to `0`.
+Brutal           | -3     | +4     | Before: If you have an Offense penalty, flip it to a bonus.
+Stalwart         | -1     | +2     | Before: If you have a Defense penalty, flip it to a bonus.
+Artful           | +3     | -2     | Before: If your target has an Offense bonus, flip it to a penalty.
+Gutsy            | -2     | +3     | Before: If your target has a Defense bonus, flip it to a penalty.
+Dazing (S)       | -1     | +5     | Before: If the target has an Offense penalty, set it to `---`.
+Nefarious        | +6     | -2     | Before: If the target has a Defense penalty, set it to `---`.
