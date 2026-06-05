@@ -240,3 +240,20 @@ Shaming          | +7     | -1     | Before: If the target has an Offense bonus,
 Pursuing         | +5     | +1     | Before: If the target has a Defense bonus, set it to `0`.
 Savage           | -3     | +7     | Before: If you have an Offense penalty, flip it to a bonus.
 Resolute         | +0     | +4     | Before: If you have a Defense penalty, flip it to a bonus.
+Elegant          | +5     | -1     | Before: If your target has an Offense bonus, flip it to a penalty.
+Brave            | -1     | +5     | Before: If your target has a Defense bonus, flip it to a penalty.
+Confounding (S)  | +0     | +7     | Before: If the target has an Offense penalty, set it to `---`.
+Dastardly        | +8     | -1     | Before: If the target has a Defense penalty, set it to `---`.
+Roaring          | -3     | +13    | After: If the target has an Offense bonus, set it to `+++`.
+Reeking          | +8     | +2     | After: If the target has a Defense bonus, set it to `+++`.
+Brilliant (S)    | +10    | +0     | After: If you have an Offense penalty, set it to `---`.
+Esoteric (S)     | +14    | -4     | After: If you have a Defense penalty, set it to `---`.
+Terrifying       | -3     | +7     | Before: All enemies' Offense worsens by 1 step.
+Hilarious        | +8     | -4     | Before: All enemies' Defense worsens by 1 step.
+Resplendent      | +0     | +4     | Before: All other allies' Offense improves by 1 step.
+Entrenching      | +1     | +3     | Before: All other allies' Defense improves by 1 step.
+Frigid (S)       | +9     | +4     | After: All allies' Offense worsens by 1 step.
+Diabolical (S)   | +0     | +13    | After: All allies' Defense worsens by 1 step.
+Burying (S)      | -4     | +13    | After: All characters' Offense worsens by 1 step.
+Flooding (S)     | +7     | +2     | After: All characters' Defense worsens by 1 step.
+Grappling        | +2     | +4     | Before: Set the target's Offense and Defense both to `0`.
