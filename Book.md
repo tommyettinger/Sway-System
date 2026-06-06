@@ -257,3 +257,12 @@ Diabolical (S)   | +0     | +13    | After: All allies' Defense worsens by 1 ste
 Burying (S)      | -4     | +13    | After: All characters' Offense worsens by 1 step.
 Flooding (S)     | +7     | +2     | After: All characters' Defense worsens by 1 step.
 Grappling        | +2     | +4     | Before: Set the target's Offense and Defense both to `0`.
+
+### Techniques (Non-Combat)
+
+Techniques | Beneficial Applications | Handicap Applications | Special Rules
+---------- | --------------------------- | ------------------------ | ---------------
+Angry, Furious, Livid | Looking intimidating. Breaking things. | Frustrating tasks. Staying calm. | 
+Cautious, Guarded, Impenetrable | Planning ahead. Protecting yourself. | Taking risks. Looking intimidating. |
+Smug, Cocky, Confident | Very challenging tasks. Staying calm. | Handling your mistakes. Holding your tongue. |
+Testing, Probing, Evaluating | Planning ahead. Experimenting. | Excessive curiosity. Acting quickly. |
