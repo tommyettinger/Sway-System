@@ -274,7 +274,11 @@ Grappling        | +2     | +4     | Before: Set the target's Offense and Defens
 
 Techniques | Beneficial Applications | Handicap Applications | Special Rules
 ---------- | --------------------------- | ------------------------ | ---------------
-Angry, Furious, Livid | Looking intimidating. Breaking things. | Frustrating tasks. Staying calm. | 
-Cautious, Guarded, Impenetrable | Planning ahead. Protecting yourself. | Taking risks. Looking intimidating. |
-Smug, Cocky, Confident | Very challenging tasks. Staying calm. | Handling your mistakes. Holding your tongue. |
-Testing, Probing, Evaluating | Planning ahead. Experimenting. | Excessive curiosity. Acting quickly. |
+Angry, Furious, Livid|Looking intimidating. Breaking things.|Frustrating tasks. Staying calm.| 
+Cautious, Guarded, Impenetrable|Planning ahead. Protecting yourself.|Taking risks. Looking intimidating.|
+Smug, Cocky, Confident|Very challenging tasks. Staying calm.|Handling your mistakes. Holding your tongue.|
+Testing, Probing, Evaluating|Planning ahead. Experimenting.|Excessive curiosity. Acting quickly.|
+Taxing, Strenuous, Exhausting|Very challenging tasks. Handling fatigue.|Enjoying yourself. Charming people.|
+Reckless, Risky, Perilous|Acting quickly. Taking risks.|Holding your tongue. Knowing your limits.|
+Searing, Scorching, Incinerating (S)|Creating and moving fire.|Spreading fires too much.|Forced Handicap, 1 for 1.
+Hardening, Solidifying, Petrifying (S)|Turn anything to stone temporarily.|Your powers are feared and hated.|
