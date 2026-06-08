@@ -276,7 +276,7 @@ Techniques | Beneficial Applications | Handicap Applications | Special Rules
 ---------- | --------------------------- | ------------------------ | ---------------
 Angry, Furious, Livid|Looking intimidating. Breaking things.|Frustrating tasks. Staying calm.| 
 Cautious, Guarded, Impenetrable|Planning ahead. Protecting yourself.|Taking risks. Looking intimidating.|
-Smug, Cocky, Confident|Very challenging tasks. Staying calm.|Handling your mistakes. Holding your tongue.|
+Smug, Cocky, Confident|Very challenging tasks. Staying calm.|Relying on reputation. Holding your tongue.|
 Testing, Probing, Evaluating|Planning ahead. Adapting to change.|Excessive curiosity. Acting quickly.|
 Taxing, Strenuous, Exhausting|Very challenging tasks. Handling fatigue.|Enjoying yourself. Charming people.|
 Reckless, Risky, Perilous|Acting quickly. Taking risks.|Holding your tongue. Knowing your limits.|
@@ -290,4 +290,7 @@ Sparking, Jolting, Shocking (S)|Manipulating electricity.|Fragile objects you us
 Dim, Murky, Gloomy (S)|Decreasing light. Concealing things.|Bright light blinds you. You can't undo concealment.|
 Fierce, Brutal, Savage|Breaking things. Taking risks.|Frustrating tasks. Holding your tongue.|
 Steadfast, Stalwart, Resolute|Staying calm. Frustrating tasks.|Enjoying yourself. Adapting to change.|
-
+Dueling, Artful, Elegant|Charming people. Acting quickly.|Holding your tongue. Protecting yourself.|
+Plucky, Gutsy, Brave|Taking risks. Being honest.|Knowing your limits. Planning ahead.|
+Disorienting, Dazing, Confounding (S)|Clouding people's minds.|Alerted characters can force Handicap once each.|Alerts (S) characters nearby.
+Deceitful, Nefarious, Dastardly|Being mean. Tricking people.|Relying on reputation. Being honest.|
