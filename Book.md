@@ -286,3 +286,8 @@ Calm, Tranquil, Serene|Staying calm. Holding your tongue.|Looking intimidating. 
 Quick, Elusive, Nimble|Acting quickly. Adapting to change.|Planning ahead. Handling fatigue.|
 Insulting, Mocking, Shaming|Enjoying yourself. Being mean.|Charming people. Holding your tongue.|
 Insistent, Dogged, Pursuing|Handling fatigue. Knowing your limits.|Enjoying yourself. Charming people.|
+Sparking, Jolting, Shocking (S)|Manipulating electricity.|Fragile objects you use break.|Forced Handicap (1:1).
+Dim, Murky, Gloomy (S)|Decreasing light. Concealing things.|Bright light blinds you. You can't undo concealment.|
+Fierce, Brutal, Savage|Breaking things. Taking risks.|Frustrating tasks. Holding your tongue.|
+Steadfast, Stalwart, Resolute|Staying calm. Frustrating tasks.|Enjoying yourself. Adapting to change.|
+
