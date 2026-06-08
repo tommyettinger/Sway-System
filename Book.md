@@ -277,8 +277,12 @@ Techniques | Beneficial Applications | Handicap Applications | Special Rules
 Angry, Furious, Livid|Looking intimidating. Breaking things.|Frustrating tasks. Staying calm.| 
 Cautious, Guarded, Impenetrable|Planning ahead. Protecting yourself.|Taking risks. Looking intimidating.|
 Smug, Cocky, Confident|Very challenging tasks. Staying calm.|Handling your mistakes. Holding your tongue.|
-Testing, Probing, Evaluating|Planning ahead. Experimenting.|Excessive curiosity. Acting quickly.|
+Testing, Probing, Evaluating|Planning ahead. Adapting to change.|Excessive curiosity. Acting quickly.|
 Taxing, Strenuous, Exhausting|Very challenging tasks. Handling fatigue.|Enjoying yourself. Charming people.|
 Reckless, Risky, Perilous|Acting quickly. Taking risks.|Holding your tongue. Knowing your limits.|
-Searing, Scorching, Incinerating (S)|Creating and moving fire.|Spreading fires too much.|Forced Handicap, 1 for 1.
+Searing, Scorching, Incinerating (S)|Creating and moving fire.|Spreading fires too much.|Forced Handicap (1:1).
 Hardening, Solidifying, Petrifying (S)|Turn anything to stone temporarily.|Your powers are feared and hated.|
+Calm, Tranquil, Serene|Staying calm. Holding your tongue.|Looking intimidating. Acting quickly.|
+Quick, Elusive, Nimble|Acting quickly. Adapting to change.|Planning ahead. Handling fatigue.|
+Insulting, Mocking, Shaming|Enjoying yourself. Being mean.|Charming people. Holding your tongue.|
+Insistent, Dogged, Pursuing|Handling fatigue. Knowing your limits.|Enjoying yourself. Charming people.|
