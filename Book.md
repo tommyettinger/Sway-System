@@ -294,3 +294,7 @@ Dueling, Artful, Elegant|Charming people. Acting quickly.|Holding your tongue. P
 Plucky, Gutsy, Brave|Taking risks. Being honest.|Knowing your limits. Planning ahead.|
 Disorienting, Dazing, Confounding (S)|Clouding people's minds.|Alerted characters can force Handicap once each.|Alerts (S) characters nearby.
 Deceitful, Nefarious, Dastardly|Being mean. Tricking people.|Relying on reputation. Being honest.|
+Rowdy, Raucous, Roaring|Standing out. Enjoying yourself.|Holding your tongue. Planning ahead.|
+Nasty, Sickening, Reeking|Handling fatigue. Enjoying yourself.|Relying on reputation. Charming people.|
+Zealous, Punishing, Smiting (S)|Taking risks. Relying on reputation.|Tricking people. Enjoying yourself.|
+Strange, Mysterious, Esoteric (S)|Tricking people. Planning ahead.|Acting quickly. Excessive curiosity.|
