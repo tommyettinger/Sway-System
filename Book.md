@@ -298,3 +298,7 @@ Rowdy, Raucous, Roaring|Standing out. Enjoying yourself.|Holding your tongue. Pl
 Nasty, Sickening, Reeking|Handling fatigue. Enjoying yourself.|Relying on reputation. Charming people.|
 Zealous, Punishing, Smiting (S)|Taking risks. Relying on reputation.|Tricking people. Enjoying yourself.|
 Strange, Mysterious, Esoteric (S)|Tricking people. Planning ahead.|Acting quickly. Excessive curiosity.|
+Scary, Frightening, Terrifying|Being mean. Looking intimidating.|Enjoying yourself. Charming people.|
+Quirky, Comical, Hilarious|Charming people. Enjoying yourself.|Holding your tongue. Being honest.|
+Noble, Regal, Majestic|Relying on reputation. Standing out.|Knowing your limits. Handling fatigue.|
+Protective, Shielding, Entrenching|Handling fatigue. Planning ahead.|Enjoying yourself. Tricking people.|
