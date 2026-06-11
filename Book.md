@@ -56,13 +56,13 @@ A difficult skill attempt is one where there is a significant risk on a failure,
 
 A contested skill attempt is one where one or more other characters are opposing your skill attempt. Examples include a thief trying to hide from an unaware guard, which contests the thief's Stealth:Sneak against the guard's Perception:Vigilance, or a customer haggling a merchant over a price, which contests the customer's Influence:Bargain against the merchant's Influence:Bargain. Contested skill attempts require a roll, and the higher result wins (after modifiers are applied). After a Player knows their attempt has failed, they can choose to roll and spend Favor Dice to change the result. In the case of a tie between a PC and NPC, a PC wins if their Player can justify how they act with one of their Techniques, or if they spend a Favor Die. Otherwise, the PC loses the tie automatically. In the case of a tie between opposed PCs, they must roll and spend any available Favor Dice until the tie is broken, or they both lose.
 
-### Non-Combat Skills:
+### Non-Combat Skills (Summary):
 
 - **Acrobatics**: Catch {A}, Escape {T/A}, Maneuver {A}, Tumble+ {A}, Moving Recovery {T&A}
    - Training in Acrobatics also makes you Resistant 1 to Melee Weapon attack rolls.
-- **Athletics**: Climb {T}, Endure {T}, Jump {T/A}, Swim {T/A}, Team Play {A&P}
+- **Athletics**: Climb {T}, Endure {T}, Jump {T/A}, Swim {T/A}, Throw {A}
    - Training in Athletics also gives +1 to Melee Weapon Skill rolls.
-- **Deception**: Bluff {P}, Disguise {P}, Forgery {E}, Legerdemain {A&P}, Feign Health {T}
+- **Deception**: Bluff {P}, Disguise {P}, Forgery {E}, Legerdemain {A&P}, Feign Health {T&P}
    - Training in Deception also makes you Resistant 1 to Command attack rolls.
 - **Education**: Decipher {E}, Solve+ {E}, Research {E}, Write {P/E}, Broad Learning {E}
 	- Training in Education also gives +1 to Mechanics rolls.
@@ -81,7 +81,7 @@ A contested skill attempt is one where one or more other characters are opposing
 - **Stealth**: Camouflage {A}, Bypass+ {A&E}, Sneak {A}, Subtlety {P}, Culture Blend {P}
    - Training in Stealth also makes you Resistant 1 to Ranged Weapon attack rolls.
 
-### Combat Skills:
+### Combat Skills (Summary):
 
 Melee Weapon Group:
 
@@ -122,7 +122,7 @@ Unarmed Group:
 
 Unarmed attacks need you to be near your target and make contact. Training with any Unarmed skill makes you Resistant 1 to Melee Weapon and Unarmed attacks (the attacker takes a -1 penalty to hit you). Training with any Melee Weapon skill and any Unarmed skill stacks (the attacker takes a -2 penalty to hit you), but multiple Unarmed skills do not stack. You do not need a free hand to make Unarmed attacks, and can do so even if you are already using both hands.
 
-- **Unarmed (Brawling)**: Rough Blow {T}, Grapple+ {T}, Challenge {T&P}, Grit+ {T}
+- **Unarmed (Brawling)**: Rough Blow {T}, Challenge+ {T&P}, Grapple {T}, Grit+ {T}
   - Boxing, wrestling, street-fighting. Fighting styles that emphasize toughness.
 - **Unarmed (Striking)**: Swift Strike {A}, Shout+ {P}, Throw {T&A}, Disarm+ {A&E}
   - Fighting styles that emphasize fighting armed opponents with speed and intimidation.
@@ -141,6 +141,19 @@ If you use a Technique with a Command attack, it treats the character issuing th
   - Attack by pointing allies to holes in enemy defenses; predicts battle scenarios.
 - **Command (United)**: Trusting Gambit {P}, Coordinate+ {P}, Detect Loyalty {E&P}, Heroism {P}
   - Attack by using a deep bond with close allies to appear weak and make foes act rashly.
+
+## Non-Combat Skills (Details):
+
+- Acrobatics:Catch {A}
+  - Catching something hand-held that an ally tosses to you is an easy task.
+  - Catching something that can't be held in one hand, or anything thrown a very long distance, is a (moderately) difficult task, needing a result of 13 or higher (the Narrator can say the task is more difficult).
+  - Catching something that an enemy tosses to someone else is a contested task against their Athletics:Throw that you take a -5 penalty on.
+  - You can attempt an Acrobatics:Catch task if your ally fails an Athletics:Throw attempt to catch the object anyway; this is a difficult task that needs a result of 18 or higher.
+- Acrobatics:Escape {T/A}
+  - Escaping any kind of restraints is a difficult task, with the result needed depending on the quality of the restraints (Usually at least 18).
+  - Escaping someone trying to grab or hold you is a contested task against their choice of Unarmed (Brawling):Grapple or Unarmed (Yielding):Pin. Creatures that can grab you with non-humanoid body parts generally use Unarmed (Brawling), and may have a bonus on the roll.
+  - Squeezing through a tight space can be an easy or difficult task, with a result needed of 11 or potentially much more.
+
 
 ## Techniques
 
