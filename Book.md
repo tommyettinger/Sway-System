@@ -305,4 +305,7 @@ Protective, Shielding, Entrenching|Handling fatigue. Planning ahead.|Enjoying yo
 Chilling, Frosty, Frigid (S)|Reduce local temperature. Extinguish fire.|You overheat easily. You hate fire.|
 Cruel, Wicked, Diabolical (S)|You ask questions of a fiend.|You owe a debt to a fiend.|Forced Handicap (1:1).
 Trembling, Rumbling, Burying (S)|You can slowly move earth and stone.|You cause small aftershocks.|Forced Handicap (1:1).
-Splashing, Torrential, Flooding (S)|You can move water and can't drown.|You have to drink water often.|
+Splashing, Torrential, Flooding (S)|Move water. You can't drown.|You have to drink water often.|
+Bright, Radiant, Brilliant (S)|Increasing light. Creating light shows.|You always emit some light. Hiding is hard for you.|Forced Handicap (2:1).
+Breezy, Blustery, Tempestuous (S)|Hurl lightweight objects using air. Jump very high.|Weather affects you harshly.|Forced Handicap (1:1).
+Gripping, Wrestling, Grappling|Handling fatigue. Adapting to change.|Knowing your limits. Charming people.|
