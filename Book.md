@@ -156,119 +156,119 @@ Techniques that work using supernatural powers may have special rules regarding 
 
 ### Techniques (In-Combat)
 
-Tier 1         | Light | Heavy | Special
----------------- | ------ | ------ | ----------------------------------------------------------------------
-Angry            | -4     | +5     | Before: Your Offense improves by 1 step.
-Cautious         | +1     | +0     | Before: Your Defense improves by 1 step.
-Smug             | -2     | +3     | Before: The target's Offense worsens by 1 step.
-Testing          | +4     | -3     | Before: The target's Defense worsens by 1 step.
-Taxing           | +1     | +3     | After: Your Offense worsens by 1 step.
-Reckless         | +0     | +4     | After: Your Defense worsens by 1 step.
-Searing (S)      | +3     | +1     | After: the target's Offense improves by 1 step.
-Hardening (S)    | +0     | +4     | After: the target's Defense improves by 1 step.
-Calm             | +1     | -1     | Before: If you have an Offense penalty, set it to `0`.
-Quick            | +3     | -3     | Before: If you have a Defense penalty, set it to `0`.
-Insulting        | +2     | -2     | Before: If the target has an Offense bonus, set it to `0`.
-Insistent        | +1     | -1     | Before: If the target has a Defense bonus, set it to `0`.
-Sparking (S)     | -4     | +8     | Before: If the target has an Offense penalty, set it to `0`.
-Murky (S)        | +8     | -4     | Before: If the target has a Defense penalty, set it to `0`.
-Fierce           | -3     | +1     | Before: If you have an Offense penalty, flip it to a bonus.
-Steadfast        | -2     | +0     | Before: If you have a Defense penalty, flip it to a bonus.
-Dueling          | +0     | -2     | Before: If your target has an Offense bonus, flip it to a penalty.
-Plucky           | -3     | +1     | Before: If your target has a Defense bonus, flip it to a penalty.
-Disorienting (S) | -2     | +3     | Before: If the target has an Offense penalty, set it to `---`.
-Deceitful        | +4     | -3     | Before: If the target has a Defense penalty, set it to `---`.
-Rowdy            | -3     | +7     | After: If the target has an Offense bonus, set it to `+++`.
-Nasty            | +4     | +0     | After: If the target has a Defense bonus, set it to `+++`.
-Zealous (S)      | -4     | +8     | After: If you have an Offense penalty, set it to `---`.
-Strange (S)      | +8     | -4     | After: If you have a Defense penalty, set it to `---`.
-Scary            | -3     | +1     | Before: All enemies' Offense worsens by 1 step.
-Quirky           | +2     | -4     | Before: All enemies' Defense worsens by 1 step.
-Noble            | -2     | +0     | Before: All other allies' Offense improves by 1 step.
-Protective       | -1     | -1     | Before: All other allies' Defense improves by 1 step.
-Chilling (S)     | +5     | +2     | After: All allies' Offense worsens by 1 step.
-Cruel (S)        | +0     | +7     | After: All allies' Defense worsens by 1 step.
-Trembling (S)    | -4     | +7     | After: All characters' Offense worsens by 1 step.
-Splashing (S)    | +3     | +0     | After: All characters' Defense worsens by 1 step.
-Bright (S)       | +7     | -4     | After: All characters' Offense improves by 1 step.
-Breezy (S)       | +3     | +0     | After: All characters' Defense improves by 1 step.
-Gripping         | +0     | +0     | Before: Set the target's Offense and Defense both to `0`.
+Tier 1         | Light | Heavy | Special                                                    | Type
+---------------- | ------ | ------ | ------------------------------------------------------------------- | ----
+Angry            | -4     | +5     | Before: Your Offense improves by 1 step. |
+Cautious         | +1     | +0     | Before: Your Defense improves by 1 step. |
+Smug             | -2     | +3     | Before: The target's Offense worsens by 1 step. |
+Testing          | +4     | -3     | Before: The target's Defense worsens by 1 step. |
+Taxing           | +1     | +3     | After: Your Offense worsens by 1 step. |
+Reckless         | +0     | +4     | After: Your Defense worsens by 1 step. |
+Searing (S)      | +3     | +1     | After: the target's Offense improves by 1 step. | Fire
+Hardening (S)    | +0     | +4     | After: the target's Defense improves by 1 step. | Shape
+Calm             | +1     | -1     | Before: If you have an Offense penalty, set it to `0`. |
+Quick            | +3     | -3     | Before: If you have a Defense penalty, set it to `0`. |
+Insulting        | +2     | -2     | Before: If the target has an Offense bonus, set it to `0`. |
+Corrosive (S)    | +1     | -1     | Before: If the target has a Defense bonus, set it to `0`. | Acid
+Sparking (S)     | -4     | +8     | Before: If the target has an Offense penalty, set it to `0`. | Zap
+Murky (S)        | +8     | -4     | Before: If the target has a Defense penalty, set it to `0`. | Shade
+Fierce           | -3     | +1     | Before: If you have an Offense penalty, flip it to a bonus. |
+Steadfast        | -2     | +0     | Before: If you have a Defense penalty, flip it to a bonus. |
+Dueling          | +0     | -2     | Before: If your target has an Offense bonus, flip it to a penalty. |
+Plucky           | -3     | +1     | Before: If your target has a Defense bonus, flip it to a penalty. |
+Disorienting (S) | -2     | +3     | Before: If the target has an Offense penalty, set it to `---`. | Mind
+Deceitful        | +4     | -3     | Before: If the target has a Defense penalty, set it to `---`. |
+Rowdy            | -3     | +7     | After: If the target has an Offense bonus, set it to `+++`. | Sound
+Nasty            | +4     | +0     | After: If the target has a Defense bonus, set it to `+++`. | Smell
+Zealous (S)      | -4     | +8     | After: If you have an Offense penalty, set it to `---`. | Moral
+Strange (S)      | +8     | -4     | After: If you have a Defense penalty, set it to `---`. | Space
+Scary            | -3     | +1     | Before: All enemies' Offense worsens by 1 step. | Fear
+Quirky           | +2     | -4     | Before: All enemies' Defense worsens by 1 step. |
+Noble            | -2     | +0     | Before: All other allies' Offense improves by 1 step. |
+Protective       | -1     | -1     | Before: All other allies' Defense improves by 1 step. |
+Chilling (S)     | +5     | +2     | After: All allies' Offense worsens by 1 step. | Ice
+Cruel (S)        | +0     | +7     | After: All allies' Defense worsens by 1 step. | Death
+Trembling (S)    | -4     | +7     | After: All characters' Offense worsens by 1 step. | Earth
+Splashing (S)    | +3     | +0     | After: All characters' Defense worsens by 1 step. | Water
+Bright (S)       | +7     | -4     | After: All characters' Offense improves by 1 step. | Light
+Breezy (S)       | +3     | +0     | After: All characters' Defense improves by 1 step. | Wind
+Gripping         | +0     | +0     | Before: Set the target's Offense and Defense both to `0`. |
 
-Tier 2         | Light | Heavy | Special
----------------- | ------ | ------ | ----------------------------------------------------------------------
-Furious          | -4     | +6     | Before: Your Offense improves by 2 steps.
-Guarded          | +2     | +0     | Before: Your Defense improves by 2 steps.
-Cocky            | -2     | +4     | Before: The target's Offense worsens by 2 steps.
-Probing          | +5     | -3     | Before: The target's Defense worsens by 2 steps.
-Strenuous        | +2     | +5     | After: Your Offense worsens by 1 step.
-Risky            | +0     | +7     | After: Your Defense worsens by 1 step.
-Scorching (S)    | +5     | +2     | After: the target's Offense improves by 1 step.
-Solidifying (S)  | +0     | +7     | After: the target's Defense improves by 1 step.
-Tranquil         | +3     | +0     | Before: If you have an Offense penalty, set it to `0`.
-Elusive          | +6     | -3     | Before: If you have a Defense penalty, set it to `0`.
-Mocking          | +4     | -1     | Before: If the target has an Offense bonus, set it to `0`.
-Dogged           | +3     | +0     | Before: If the target has a Defense bonus, set it to `0`.
-Jolting (S)      | -4     | +11    | Before: If the target has an Offense penalty, set it to `0`.
-Murky (S)        | +10    | -3     | Before: If the target has a Defense penalty, set it to `0`.
-Brutal           | -3     | +4     | Before: If you have an Offense penalty, flip it to a bonus.
-Stalwart         | -1     | +2     | Before: If you have a Defense penalty, flip it to a bonus.
-Artful           | +3     | -2     | Before: If your target has an Offense bonus, flip it to a penalty.
-Gutsy            | -2     | +3     | Before: If your target has a Defense bonus, flip it to a penalty.
-Dazing (S)       | -1     | +5     | Before: If the target has an Offense penalty, set it to `---`.
-Nefarious        | +6     | -2     | Before: If the target has a Defense penalty, set it to `---`.
-Raucous          | -3     | +10    | After: If the target has an Offense bonus, set it to `+++`.
-Sickening        | +6     | +1     | After: If the target has a Defense bonus, set it to `+++`.
-Punishing (S)    | -4     | +11    | After: If you have an Offense penalty, set it to `---`.
-Mysterious (S)   | +11    | -4     | After: If you have a Defense penalty, set it to `---`.
-Frightening      | -3     | +4     | Before: All enemies' Offense worsens by 1 step.
-Comical          | +5     | -4     | Before: All enemies' Defense worsens by 1 step.
-Regal            | -1     | +2     | Before: All other allies' Offense improves by 1 step.
-Shielding        | +0     | +1     | Before: All other allies' Defense improves by 1 step.
-Frosty (S)       | +7     | +3     | After: All allies' Offense worsens by 1 step.
-Wicked (S)       | +0     | +10    | After: All allies' Defense worsens by 1 step.
-Rumbling (S)     | -4     | +10    | After: All characters' Offense worsens by 1 step.
-Torrential (S)   | +5     | +1     | After: All characters' Defense worsens by 1 step.
-Radiant (S)      | +10    | -4     | After: All characters' Offense improves by 1 step.
-Blustery (S)     | +5     | +1     | After: All characters' Defense improves by 1 step.
-Wrestling        | +1     | +2     | Before: Set the target's Offense and Defense both to `0`.
+Tier 2         | Light | Heavy | Special                                                    | Type
+---------------- | ------ | ------ | ------------------------------------------------------------------- | ----
+Furious          | -4     | +6     | Before: Your Offense improves by 2 steps. |
+Guarded          | +2     | +0     | Before: Your Defense improves by 2 steps. |
+Cocky            | -2     | +4     | Before: The target's Offense worsens by 2 steps. |
+Probing          | +5     | -3     | Before: The target's Defense worsens by 2 steps. |
+Strenuous        | +2     | +5     | After: Your Offense worsens by 1 step. |
+Risky            | +0     | +7     | After: Your Defense worsens by 1 step. |
+Scorching (S)    | +5     | +2     | After: the target's Offense improves by 1 step. | Fire
+Solidifying (S)  | +0     | +7     | After: the target's Defense improves by 1 step. | Shape
+Tranquil         | +3     | +0     | Before: If you have an Offense penalty, set it to `0`. |
+Elusive          | +6     | -3     | Before: If you have a Defense penalty, set it to `0`. |
+Mocking          | +4     | -1     | Before: If the target has an Offense bonus, set it to `0`. |
+Acidic (S)       | +3     | +0     | Before: If the target has a Defense bonus, set it to `0`. | Acid
+Jolting (S)      | -4     | +11    | Before: If the target has an Offense penalty, set it to `0`. | Zap
+Murky (S)        | +10    | -3     | Before: If the target has a Defense penalty, set it to `0`. | Shade
+Brutal           | -3     | +4     | Before: If you have an Offense penalty, flip it to a bonus. |
+Stalwart         | -1     | +2     | Before: If you have a Defense penalty, flip it to a bonus. |
+Artful           | +3     | -2     | Before: If your target has an Offense bonus, flip it to a penalty. |
+Gutsy            | -2     | +3     | Before: If your target has a Defense bonus, flip it to a penalty. |
+Dazing (S)       | -1     | +5     | Before: If the target has an Offense penalty, set it to `---`. | Mind
+Nefarious        | +6     | -2     | Before: If the target has a Defense penalty, set it to `---`. |
+Raucous          | -3     | +10    | After: If the target has an Offense bonus, set it to `+++`. | Sound
+Sickening        | +6     | +1     | After: If the target has a Defense bonus, set it to `+++`. | Smell
+Punishing (S)    | -4     | +11    | After: If you have an Offense penalty, set it to `---`. | Moral
+Mysterious (S)   | +11    | -4     | After: If you have a Defense penalty, set it to `---`. | Space
+Frightening      | -3     | +4     | Before: All enemies' Offense worsens by 1 step. | Fear
+Comical          | +5     | -4     | Before: All enemies' Defense worsens by 1 step. |
+Regal            | -1     | +2     | Before: All other allies' Offense improves by 1 step. |
+Shielding        | +0     | +1     | Before: All other allies' Defense improves by 1 step. |
+Frosty (S)       | +7     | +3     | After: All allies' Offense worsens by 1 step. | Ice
+Wicked (S)       | +0     | +10    | After: All allies' Defense worsens by 1 step. | Death
+Rumbling (S)     | -4     | +10    | After: All characters' Offense worsens by 1 step. | Earth
+Torrential (S)   | +5     | +1     | After: All characters' Defense worsens by 1 step. | Water
+Radiant (S)      | +10    | -4     | After: All characters' Offense improves by 1 step. | Light
+Blustery (S)     | +5     | +1     | After: All characters' Defense improves by 1 step. | Wind
+Wrestling        | +1     | +2     | Before: Set the target's Offense and Defense both to `0`. |
 
-Tier 3         | Light | Heavy | Special
----------------- | ------ | ------ | ----------------------------------------------------------------------
-Livid            | -4     | +7     | Before: Your Offense improves by 3 steps.
-Impenetrable     | +3     | +0     | Before: Your Defense improves by 3 steps.
-Confident        | -2     | +5     | Before: The target's Offense worsens by 3 steps.
-Evaluating       | +6     | -3     | Before: The target's Defense worsens by 3 steps.
-Exhausting       | +3     | +7     | After: Your Offense worsens by 1 step.
-Perilous         | +0     | +10    | After: Your Defense worsens by 1 step.
-Incinerating (S) | +7     | +3     | After: the target's Offense improves by 1 step.
-Petrifying (S)   | +0     | +10    | After: the target's Defense improves by 1 step.
-Serene           | +5     | +1     | Before: If you have an Offense penalty, set it to `0`.
-Nimble           | +9     | -3     | Before: If you have a Defense penalty, set it to `0`.
-Shaming          | +7     | -1     | Before: If the target has an Offense bonus, set it to `0`.
-Pursuing         | +5     | +1     | Before: If the target has a Defense bonus, set it to `0`.
-Shocking (S)     | -4     | +14    | Before: If the target has an Offense penalty, set it to `0`.
-Gloomy (S)       | +12    | -2     | Before: If the target has a Defense penalty, set it to `0`.
-Savage           | -3     | +7     | Before: If you have an Offense penalty, flip it to a bonus.
-Resolute         | +0     | +4     | Before: If you have a Defense penalty, flip it to a bonus.
-Elegant          | +5     | -1     | Before: If your target has an Offense bonus, flip it to a penalty.
-Brave            | -1     | +5     | Before: If your target has a Defense bonus, flip it to a penalty.
-Confounding (S)  | +0     | +7     | Before: If the target has an Offense penalty, set it to `---`.
-Dastardly        | +8     | -1     | Before: If the target has a Defense penalty, set it to `---`.
-Roaring          | -3     | +13    | After: If the target has an Offense bonus, set it to `+++`.
-Reeking          | +8     | +2     | After: If the target has a Defense bonus, set it to `+++`.
-Smiting (S)      | -4     | +14    | After: If you have an Offense penalty, set it to `---`.
-Esoteric (S)     | +14    | -4     | After: If you have a Defense penalty, set it to `---`.
-Terrifying       | -3     | +7     | Before: All enemies' Offense worsens by 1 step.
-Hilarious        | +8     | -4     | Before: All enemies' Defense worsens by 1 step.
-Majestic         | +0     | +4     | Before: All other allies' Offense improves by 1 step.
-Entrenching      | +1     | +3     | Before: All other allies' Defense improves by 1 step.
-Frigid (S)       | +9     | +4     | After: All allies' Offense worsens by 1 step.
-Diabolical (S)   | +0     | +13    | After: All allies' Defense worsens by 1 step.
-Burying (S)      | -4     | +13    | After: All characters' Offense worsens by 1 step.
-Flooding (S)     | +7     | +2     | After: All characters' Defense worsens by 1 step.
-Brilliant (S)    | +13    | -4     | After: All characters' Offense improves by 1 step.
-Gusty (S)        | +7     | +2     | After: All characters' Defense improves by 1 step.
-Grappling        | +2     | +4     | Before: Set the target's Offense and Defense both to `0`.
+Tier 3         | Light | Heavy | Special                                                    | Type
+---------------- | ------ | ------ | ------------------------------------------------------------------- | ----
+Livid            | -4     | +7     | Before: Your Offense improves by 3 steps. |
+Impenetrable     | +3     | +0     | Before: Your Defense improves by 3 steps. |
+Confident        | -2     | +5     | Before: The target's Offense worsens by 3 steps. |
+Evaluating       | +6     | -3     | Before: The target's Defense worsens by 3 steps. |
+Exhausting       | +3     | +7     | After: Your Offense worsens by 1 step. |
+Perilous         | +0     | +10    | After: Your Defense worsens by 1 step. |
+Incinerating (S) | +7     | +3     | After: the target's Offense improves by 1 step. | Fire
+Petrifying (S)   | +0     | +10    | After: the target's Defense improves by 1 step. | Shape
+Serene           | +5     | +1     | Before: If you have an Offense penalty, set it to `0`. |
+Nimble           | +9     | -3     | Before: If you have a Defense penalty, set it to `0`. |
+Shaming          | +7     | -1     | Before: If the target has an Offense bonus, set it to `0`. |
+Consuming (S)    | +5     | +1     | Before: If the target has a Defense bonus, set it to `0`. | Acid
+Shocking (S)     | -4     | +14    | Before: If the target has an Offense penalty, set it to `0`. | Zap
+Gloomy (S)       | +12    | -2     | Before: If the target has a Defense penalty, set it to `0`. | Shade
+Savage           | -3     | +7     | Before: If you have an Offense penalty, flip it to a bonus. |
+Resolute         | +0     | +4     | Before: If you have a Defense penalty, flip it to a bonus. |
+Elegant          | +5     | -1     | Before: If your target has an Offense bonus, flip it to a penalty. |
+Brave            | -1     | +5     | Before: If your target has a Defense bonus, flip it to a penalty. |
+Confounding (S)  | +0     | +7     | Before: If the target has an Offense penalty, set it to `---`. | Mind
+Dastardly        | +8     | -1     | Before: If the target has a Defense penalty, set it to `---`. |
+Roaring          | -3     | +13    | After: If the target has an Offense bonus, set it to `+++`. | Sound
+Reeking          | +8     | +2     | After: If the target has a Defense bonus, set it to `+++`. | Smell
+Smiting (S)      | -4     | +14    | After: If you have an Offense penalty, set it to `---`. | Moral
+Esoteric (S)     | +14    | -4     | After: If you have a Defense penalty, set it to `---`. | Space
+Terrifying       | -3     | +7     | Before: All enemies' Offense worsens by 1 step. | Fear
+Hilarious        | +8     | -4     | Before: All enemies' Defense worsens by 1 step. |
+Majestic         | +0     | +4     | Before: All other allies' Offense improves by 1 step. |
+Entrenching      | +1     | +3     | Before: All other allies' Defense improves by 1 step. |
+Frigid (S)       | +9     | +4     | After: All allies' Offense worsens by 1 step. | Ice
+Diabolical (S)   | +0     | +13    | After: All allies' Defense worsens by 1 step. | Death
+Burying (S)      | -4     | +13    | After: All characters' Offense worsens by 1 step. | Earth
+Flooding (S)     | +7     | +2     | After: All characters' Defense worsens by 1 step. | Water
+Brilliant (S)    | +13    | -4     | After: All characters' Offense improves by 1 step. | Light
+Tempestuous (S)  | +7     | +2     | After: All characters' Defense improves by 1 step. | Wind
+Grappling        | +2     | +4     | Before: Set the target's Offense and Defense both to `0`. |
 
 ### Techniques (Non-Combat)
 
@@ -285,7 +285,7 @@ Hardening, Solidifying, Petrifying (S)|Turn anything to stone temporarily.|Your 
 Calm, Tranquil, Serene|Staying calm. Holding your tongue.|Looking intimidating. Acting quickly.|
 Quick, Elusive, Nimble|Acting quickly. Adapting to change.|Planning ahead. Handling fatigue.|
 Insulting, Mocking, Shaming|Enjoying yourself. Being mean.|Charming people. Holding your tongue.|
-Insistent, Dogged, Pursuing|Handling fatigue. Knowing your limits.|Enjoying yourself. Charming people.|
+Corrosive, Acidic, Consuming (S)|Create a specific acid.|You carry around lots of acid.|Forced Handicap (1:1).
 Sparking, Jolting, Shocking (S)|Manipulating electricity.|Fragile objects you use break.|Forced Handicap (1:1).
 Dim, Murky, Gloomy (S)|Decreasing light. Concealing things.|Bright light blinds you. You can't undo concealment.|
 Fierce, Brutal, Savage|Breaking things. Taking risks.|Frustrating tasks. Holding your tongue.|
