@@ -285,7 +285,7 @@ Hardening, Solidifying, Petrifying (S)|Turn anything to stone temporarily.|Your 
 Calm, Tranquil, Serene|Staying calm. Holding your tongue.|Looking intimidating. Acting quickly.|
 Quick, Elusive, Nimble|Acting quickly. Adapting to change.|Planning ahead. Handling fatigue.|
 Insulting, Mocking, Shaming|Enjoying yourself. Being mean.|Charming people. Holding your tongue.|
-Corrosive, Acidic, Consuming (S)|Create a specific acid.|You carry around lots of acid.|Forced Handicap (1:1).
+Corrosive, Acidic, Consuming (S)|Create a specific acid.|You carry around lots of hazardous acid.|
 Sparking, Jolting, Shocking (S)|Manipulating electricity.|Fragile objects you use break.|Forced Handicap (1:1).
 Dim, Murky, Gloomy (S)|Decreasing light. Concealing things.|Bright light blinds you. You can't undo concealment.|
 Fierce, Brutal, Savage|Breaking things. Taking risks.|Frustrating tasks. Holding your tongue.|
@@ -302,3 +302,7 @@ Scary, Frightening, Terrifying|Being mean. Looking intimidating.|Enjoying yourse
 Quirky, Comical, Hilarious|Charming people. Enjoying yourself.|Holding your tongue. Being honest.|
 Noble, Regal, Majestic|Relying on reputation. Standing out.|Knowing your limits. Handling fatigue.|
 Protective, Shielding, Entrenching|Handling fatigue. Planning ahead.|Enjoying yourself. Tricking people.|
+Chilling, Frosty, Frigid (S)|Reduce local temperature. Extinguish fire.|You overheat easily. You hate fire.|
+Cruel, Wicked, Diabolical (S)|You ask questions of a fiend.|You owe a debt to a fiend.|Forced Handicap (1:1).
+Trembling, Rumbling, Burying (S)|You can slowly move earth and stone.|You cause small aftershocks.|Forced Handicap (1:1).
+Splashing, Torrential, Flooding (S)|You can move water and can't drown.|You have to drink water often.|
