@@ -146,13 +146,19 @@ If you use a Technique with a Command attack, it treats the character issuing th
 
 - Acrobatics:Catch {A}
   - Catching something hand-held that an ally tosses to you is an easy task.
-  - Catching something that can't be held in one hand, or anything thrown a very long distance, is a (moderately) difficult task, needing a result of 13 or higher (the Narrator can say the task is more difficult).
+  - Catching something that can't be held in one hand, or anything thrown a very long distance, is a (moderately) difficult task, needing a result of 13 or higher.
   - Catching something that an enemy tosses to someone else is a contested task against their Athletics:Throw that you take a -5 penalty on.
   - You can attempt an Acrobatics:Catch task if your ally fails an Athletics:Throw attempt to catch the object anyway; this is a difficult task that needs a result of 18 or higher.
 - Acrobatics:Escape {T/A}
   - Escaping any kind of restraints is a difficult task, with the result needed depending on the quality of the restraints (Usually at least 18).
   - Escaping someone trying to grab or hold you is a contested task against their choice of Unarmed (Brawling):Grapple or Unarmed (Yielding):Pin. Creatures that can grab you with non-humanoid body parts generally use Unarmed (Brawling), and may have a bonus on the roll.
   - Squeezing through a tight space can be an easy or difficult task, with a result needed of 11 or potentially much more.
+- Acrobatics:Maneuver {A}
+  - Performing your normal movement through dangerous conditions, either moving yourself or a vehicle you directly control, is at least one difficult task, needing a result of 12 or potentially much higher.
+  - For humanoid characters, normal movement includes walking and running. For characters who can easily fly, swim, climb, burrow, and so on, that is considered normal movement for them. For most PCs, if they need to maneuver while swimming or climbing, then that involves both Acrobatics:Maneuver and the appropriate Athletics:Swim or Athletics:Climb skill, with both tasks needed to move safely. Maneuvering a boat or other watercraft doesn't need Athletics:Swim tasks unless you go overboard.
+  - Chases between two or more characters on foot and/or in vehicles involve contested Acrobatics:Maneuver tasks. Being in a vehicle that's a good fit for the conditions gives you a bonus of up to +8, or can give a penalty if it can't be driven easily relative to other chasing characters. As an example, being on skis gives you a bonus to Acrobatics:Maneuver tasks while chasing in the snow (such as +4), but if the chase goes indoors, that becomes a significant penalty (such as -8).
+- Acrobatics:Tumble {A} (+Specialty only)
+  - Rolling after a fall can reduce or eliminate the damage suffered from falling, as a difficult task that needs a result of 18. Each point you succeed past 18 reduces the Heavy damage you suffer by 1 point. Falling on sharp or hazardous surfaces can still deal Light damage, which tumbling can't reduce.
 
 
 ## Techniques
