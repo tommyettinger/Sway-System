@@ -157,7 +157,7 @@ If you use a Technique with a Command attack, it treats the character issuing th
   - You can attempt an Acrobatics:Catch task if your ally fails an Athletics:Throw attempt to catch the object anyway; this is a difficult task that needs a result of 18 or higher.
 - Acrobatics:Escape {T/A}
   - Escaping any kind of restraints is a difficult task, with the result needed depending on the quality of the restraints (Usually at least 18).
-  - Escaping someone trying to grab or hold you is a contested task against their choice of Unarmed (Brawling):Grapple or Unarmed (Yielding):Pin. Creatures that can grab you with non-humanoid body parts generally use Unarmed (Brawling), and may have a bonus on the roll.
+  - Escaping someone trying to grab or hold you is a contested task against their choice of Unarmed (Brawling):Grapple or Unarmed (Yielding):Pin. Creatures that can grab you with non-humanoid body parts generally use Unarmed (Brawling), and may have a bonus on the roll. Add your size as a bonus to this contested task; this is typically 2 or 3 for a human.
   - Squeezing through a tight space can be an easy or difficult task, with a result needed of 11 or potentially much more.
 - Acrobatics:Maneuver {A}
   - Performing your normal movement through dangerous conditions, either moving yourself or a vehicle you directly control, is at least one difficult task, needing a result of 12 or potentially much higher.
@@ -165,7 +165,8 @@ If you use a Technique with a Command attack, it treats the character issuing th
   - Chases between two or more characters on foot and/or in vehicles involve contested Acrobatics:Maneuver tasks. Being in a vehicle that's a good fit for the conditions gives you a bonus of up to +8, or can give a penalty if it can't be driven easily relative to other chasing characters. As an example, being on skis gives you a bonus to Acrobatics:Maneuver tasks while chasing in the snow (such as +4), but if the chase goes indoors, that becomes a significant penalty (such as -8).
   - If you take damage while maneuvering, either from terrain or an attacker, you need to make a Acrobatics:Moving Recovery check to continue maneuvering.
 - Acrobatics:Tumble {A} (+Specialty only)
-  - Rolling after a fall can reduce or eliminate the damage suffered from falling, as a difficult task that needs a result of more than 18. Each point you succeed past 18 reduces the Heavy damage you suffer by 1 point. Falling on sharp or hazardous surfaces can still deal Light damage, which tumbling can't reduce.
+  - Rolling after a fall can reduce or eliminate the damage suffered from falling, as a difficult task that needs a result of more than 15. Each point you succeed past 18 reduces the Heavy damage you suffer by 1 point. Falling on sharp or hazardous surfaces can still deal Light damage, which tumbling can't reduce.
+  - You take a penalty on all Acrobatics:Tumble tasks equal to your size, which is typically 2 or 3 for a human.
 - Acrobatics:Moving Recovery {T&A}
   - Suffering damage while using Acrobatics:Maneuver or Athletics:Climb requires you to succeed on a difficult Acrobatics:Moving Recovery task to keep moving. The difficulty is the total damage you have suffered between when you made your last Maneuver or Climb attempt and now. Vehicles may be able to sustain significantly more or less damage than a character on foot, which manifests as a multiplier on the damage suffered. A large battleship isn't very maneuverable, but would need to suffer massive damage to change its path; the difficulty for Moving Recovery tasks for such a vehicle is 0.01 times the damage it suffers, rounded down. A light plane, on the other hand, can barely suffer any damage without needing an expert pilot to right its course; the difficulty for it is 3 times the damage it suffers.
 - Athletics:Climb {T}
@@ -174,6 +175,16 @@ If you use a Technique with a Command attack, it treats the character issuing th
   - Climbing any surface without any natural climbing ability is very slow compared to moving normally. An animal built for steep terrain, like a goat, can move at about half speed up any surface. A specialized climber like a monkey can move at full speed up the surfaces it is used to, such as trees for a monkey.
   - Having and using appropriate tools for climbing, like pitons, gives a +4 bonus to anyone climbing or following a climber. Only characters trained in Athletics can effectively use such tools.
   - Suffering damage while climbing requires an Acrobatics:Moving Recovery task to avoid falling.
+- Endure {T}
+  - Staying physically active in moderately hot, cold, or otherwise arduous conditions is an easy task. This can become a difficult task if you have to maintain activity in moderately challenging conditions for more than an hour, or conditions become extreme. The result needed for this difficult task can vary dramatically, and is at least 13.
+  - Each piece of armor you wear gives you a -1 penalty to endure hot weather.
+  - Not wearing clothes meant for cold weather gives a -2 penalty to endure cold weather. Clothes meant for cold weather give a -5 penalty to endure hot weather.
+  - Natural animals have a +5 bonus to endure the climate they are native to, and a may take any penalty to endure climates they aren't used to.
+  - Some non-human characters may need to succeed at difficult tasks to exert themselves in conditions that are unnatural for them, like frog-people marching through a desert.
+- Jump {T/A}
+  - The height and length you can jump is determined by your Athletics:Jump bonus. This isn't a task that can be rolled; either you can make a jump or can't. In situations where your life is on the line, failing a single skill task and falling down a bottomless pit is a pretty awful way for a PC to die, so we don't do that here. You know if you can make a jump before you attempt it, even in stressful situations.
+  - Your size can provide a bonus to the height of your jump, but only for human-shaped characters. A house cat (size 1 or 2) can probably jump a lot higher than any human (size 2 or 3), for instance. A car or sailing ship simply can't jump.
+  - There isn't any hard-and-fast rule for distance anywhere in this system, so if jumping across an obstacle is an option, the Narrator will tell players if their Athletics:Jump bonus is sufficient to make a jump before they try it.
 
 
 ## Techniques
