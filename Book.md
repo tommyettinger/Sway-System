@@ -72,7 +72,7 @@ A contested skill attempt is one where one or more other characters are opposing
    - Training in Deception also makes you Resistant 1 to Command attack rolls.
 - **Education**: Decipher {E}, Solve+ {E}, Research {E}, Write {P/E}, Broad Learning {E}
 	- Training in Education also gives +1 to Mechanics rolls.
-- **Focus**: Calm {P}, Concentrate {T}, Second Wind {T}, Resist Pain {T}, Courage {T/P}
+- **Focus**: Calm {P}, Concentrate {T}, Second Wind {T}, Persevere {T}, Courage {T/P}
    - Training in Focus also makes you Resistant 1 to Unarmed attack rolls.
 - **Healing**: First Aid {T/E}, Pharmacology+ {E}, Surgery+ {A&E}, Therapy {P}, Care {P}
    - Training in Healing also gives +1 to Unarmed Skill rolls.
@@ -155,6 +155,7 @@ If you use a Technique with a Command attack, it treats the character issuing th
   - Catching something that can't be held in one hand, or anything thrown a very long distance, is a (moderately) difficult task, needing a result of 13 or higher.
   - Catching something that an enemy tosses to someone else is a contested task against their Athletics:Throw that you take a -5 penalty on.
   - You can attempt an Acrobatics:Catch task if your ally fails an Athletics:Throw attempt to catch the object anyway; this is a difficult task that needs a result of 18 or higher.
+  - Catching a sharp, fragile, or hazardous object imposes at least a -1 penalty to difficult or contested tasks.
 - Acrobatics:Escape {T/A}
   - Escaping any kind of restraints is a difficult task, with the result needed depending on the quality of the restraints (Usually at least 18).
   - Escaping someone trying to grab or hold you is a contested task against their choice of Unarmed (Brawling):Grapple or Unarmed (Yielding):Pin. Creatures that can grab you with non-humanoid body parts generally use Unarmed (Brawling), and may have a bonus on the roll. Add your size as a bonus to this contested task; this is typically 2 or 3 for a human.
@@ -178,13 +179,25 @@ If you use a Technique with a Command attack, it treats the character issuing th
 - Endure {T}
   - Staying physically active in moderately hot, cold, or otherwise arduous conditions is an easy task. This can become a difficult task if you have to maintain activity in moderately challenging conditions for more than an hour, or conditions become extreme. The result needed for this difficult task can vary dramatically, and is at least 13.
   - Each piece of armor you wear gives you a -1 penalty to endure hot weather.
-  - Not wearing clothes meant for cold weather gives a -2 penalty to endure cold weather. Clothes meant for cold weather give a -5 penalty to endure hot weather.
+  - Not wearing cold-weather clothing gives a -2 penalty to endure cold weather. Cold-weather clothing gives a -5 penalty to endure hot weather.
   - Natural animals have a +5 bonus to endure the climate they are native to, and a may take any penalty to endure climates they aren't used to.
   - Some non-human characters may need to succeed at difficult tasks to exert themselves in conditions that are unnatural for them, like frog-people marching through a desert.
 - Jump {T/A}
   - The height and length you can jump is determined by your Athletics:Jump bonus. This isn't a task that can be rolled; either you can make a jump or can't. In situations where your life is on the line, failing a single skill task and falling down a bottomless pit is a pretty awful way for a PC to die, so we don't do that here. You know if you can make a jump before you attempt it, even in stressful situations.
   - Your size can provide a bonus to the height of your jump, but only for human-shaped characters. A house cat (size 1 or 2) can probably jump a lot higher than any human (size 2 or 3), for instance. A car or sailing ship simply can't jump.
   - There isn't any hard-and-fast rule for distance anywhere in this system, so if jumping across an obstacle is an option, the Narrator will tell players if their Athletics:Jump bonus is sufficient to make a jump before they try it.
+- Swim {T/A}
+  - Moving through water deeper than you are tall, or that is moving swiftly, is always a difficult task for land-dwelling characters. However, the result needed to traverse water is lower than for other difficult tasks, and is at least 9. Treading water in-place is even easier, at difficulty needed of 6.
+  - The low result needed for swimming is counteracted by the penalty for carrying heavy items in water. Every piece of armor you wear gives a -1 penalty to any Athletics:Swim task. Any two-handed weapon you carry or wield gives you an additional -1 penalty. Cold-weather clothing or any formal wear also gives an additional -1 penalty. If all your limbs are restrained, you can't swim or tread water at all.
+  - Failing a task to move through water means you don't make any progress, and must succeed at a difficult task to tread water (with its normal result needed and penalties).
+  - Failing a task to tread water means you go underwater, and have three turns to hold your breath before you begin to drown.
+  - If the water you are in is moving, failing any task to move through water or making any attempt to tread water moves you in the direction of the current.
+- Throw {A}
+  - Tossing a hand-held object to someone softly, so they can catch it, is an easy task.
+  - Hurling a hand-held object past someone trying to intercept it is a contested task between your Athletics:Throw and their Acrobatics:Catch, with the interceptor taking a -5 penalty.
+  - Hitting a small, moving, or distant target with a thrown object can be either a difficult Ranged Weapon (Forceful):Mighty Launch task or a difficult Athletics:Throw task, your choice. The result needed is at least 16. If you are trying to cause damage to your target with a thrown object, that is always a Ranged Weapon (Forceful):Mighty Launch task, and uses combat rules for an attack.
+  - Throwing an object across more than approximately the width of a small room takes a -1 penalty to your roll, which can become a much larger penalty for longer distances. If you have any net penalty on an easy Athletics:Throw task, it becomes a difficult task.
+  - Aerodynamic objects meant for throwing, such as a discus, give you a +2 bonus on rolls to throw.
 
 
 ## Techniques
