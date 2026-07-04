@@ -76,7 +76,7 @@ A contested skill attempt is one where one or more other characters are opposing
    - Training in Focus also makes you Resistant 1 to Unarmed attack rolls.
 - **Healing**: First Aid {T/E}, Pharmacology+ {E}, Surgery+ {A&E}, Therapy {P}, Care {P}
    - Training in Healing also gives +1 to Unarmed Skill rolls.
-- **Influence**: Bargain {P}, Befriend {P}, Bribe {P&E}, Intimidate {T/P}, Entertain {P}
+- **Influence**: Bargain {P}, Charm {P}, Bribe {P&E}, Intimidate {T/P}, Entertain {P}
    - Training in Influence also gives +1 to Command Skill rolls.
 - **Mechanics**: Demolish+ {E}, Fine Tune+ {A&E}, Jury Rig {T/A}, Repair {E}, Gauge {E}
    - Training in Mechanics also gives +1 to Ranged Weapon Skill rolls.
@@ -176,29 +176,41 @@ If you use a Technique with a Command attack, it treats the character issuing th
   - Climbing any surface without any natural climbing ability is very slow compared to moving normally. An animal built for steep terrain, like a goat, can move at about half speed up any surface. A specialized climber like a monkey can move at full speed up the surfaces it is used to, such as trees for a monkey.
   - Having and using appropriate tools for climbing, like pitons, gives a +4 bonus to anyone climbing or following a climber. Only characters trained in Athletics can effectively use such tools.
   - Suffering damage while climbing requires an Acrobatics:Moving Recovery task to avoid falling.
-- Endure {T}
+- Athletics:Endure {T}
   - Staying physically active in moderately hot, cold, or otherwise arduous conditions is an easy task. This can become a difficult task if you have to maintain activity in moderately challenging conditions for more than an hour, or conditions become extreme. The result needed for this difficult task can vary dramatically, and is at least 13.
   - Each piece of armor you wear gives you a -1 penalty to endure hot weather.
   - Not wearing cold-weather clothing gives a -2 penalty to endure cold weather. Cold-weather clothing gives a -5 penalty to endure hot weather.
   - Natural animals have a +5 bonus to endure the climate they are native to, and a may take any penalty to endure climates they aren't used to.
   - Some non-human characters may need to succeed at difficult tasks to exert themselves in conditions that are unnatural for them, like frog-people marching through a desert.
-- Jump {T/A}
+- Athletics:Jump {T/A}
   - The height and length you can jump is determined by your Athletics:Jump bonus. This isn't a task that can be rolled; either you can make a jump or can't. In situations where your life is on the line, failing a single skill task and falling down a bottomless pit is a pretty awful way for a PC to die, so we don't do that here. You know if you can make a jump before you attempt it, even in stressful situations.
   - Your size can provide a bonus to the height of your jump, but only for human-shaped characters. A house cat (size 1 or 2) can probably jump a lot higher than any human (size 2 or 3), for instance. A car or sailing ship simply can't jump.
   - There isn't any hard-and-fast rule for distance anywhere in this system, so if jumping across an obstacle is an option, the Narrator will tell players if their Athletics:Jump bonus is sufficient to make a jump before they try it.
-- Swim {T/A}
+- Athletics:Swim {T/A}
   - Moving through water deeper than you are tall, or that is moving swiftly, is always a difficult task for land-dwelling characters. However, the result needed to traverse water is lower than for other difficult tasks, and is at least 9. Treading water in-place is even easier, at difficulty needed of 6.
   - The low result needed for swimming is counteracted by the penalty for carrying heavy items in water. Every piece of armor you wear gives a -1 penalty to any Athletics:Swim task. Any two-handed weapon you carry or wield gives you an additional -1 penalty. Cold-weather clothing or any formal wear also gives an additional -1 penalty. If all your limbs are restrained, you can't swim or tread water at all.
   - Failing a task to move through water means you don't make any progress, and must succeed at a difficult task to tread water (with its normal result needed and penalties).
   - Failing a task to tread water means you go underwater, and have three turns to hold your breath before you begin to drown.
   - If the water you are in is moving, failing any task to move through water or making any attempt to tread water moves you in the direction of the current.
-- Throw {A}
+- Athletics:Throw {A}
   - Tossing a hand-held object to someone softly, so they can catch it, is an easy task.
   - Hurling a hand-held object past someone trying to intercept it is a contested task between your Athletics:Throw and their Acrobatics:Catch, with the interceptor taking a -5 penalty.
   - Hitting a small, moving, or distant target with a thrown object can be either a difficult Ranged Weapon (Forceful):Mighty Launch task or a difficult Athletics:Throw task, your choice. The result needed is at least 16. If you are trying to cause damage to your target with a thrown object, that is always a Ranged Weapon (Forceful):Mighty Launch task, and uses combat rules for an attack.
   - Throwing an object across more than approximately the width of a small room takes a -1 penalty to your roll, which can become a much larger penalty for longer distances. If you have any net penalty on an easy Athletics:Throw task, it becomes a difficult task.
   - Aerodynamic objects meant for throwing, such as a discus, give you a +2 bonus on rolls to throw.
-
+- Deception:Bluff {P}
+  - Convincing someone that you are telling the truth, when you aren't, is a contested task between your Deception:Bluff and their Perception:Insight. Convincing someone who already believes or wants to believe your lie is easier, giving them anywhere from -1 to -5 on their Perception:Insight task. If you aren't sure if you are telling the truth or not, but are trying to convince someone that you are certain, that is still a Deception:Bluff task.
+  - Convincing a small group of people requires a contested task against each target's Perception:Insight separately. Some may be convinced, while others may not be.
+  - Convincing a large crowd is actually easier than a small one, requiring only one difficult task to convince every unnamed character in the crowd. The result needed depends on how outlandish your lie is, and can range from 12 to 25 or higher. Any PCs or named/important NPCs can contest with their own Perception:Insight tasks.
+  - Deceiving from a position of authority is usually easier, if people trust your authority. This can give you anywhere from -5 to +5 on your Deception:Bluff tasks, depending on the sentiment towards your perceived organization. Convincing people you are a trustworthy figure may involve any of Deception:Disguise, Persuasion:Charm, and/or Stealth:Culture Blend.
+  - If you actually believe your own falsehood, you can't use Deception at all, and use Influence:Charm instead.
+  - When you attempt a Deception task, you don't know who believes you or not.
+  - Players decide whether their PCs trust NPCs, not task results. The Narrator can present falsehoods as seeming true for deceptive-enough NPCs. While PCs can contest anything they doubt with an Insight:Perception task, with the information being revealed as false on a success, no one likes being doubted often.
+- Deception:Disguise {P}
+  - Changing your appearance to match a generic uniform is a difficult task, requiring a result of 16 or higher depending on how high of a rank you need to impersonate.
+  - Changing your appearance to match a specific person requires a contested task between your Deception:Disguise and Perception:Insight for each person you are trying to trick. Anyone who is at all familiar with who you are impersonating gains a bonus to their Perception:Insight task, from +2 to +10.
+  - Having appropriate tools gives you a +2 bonus to Disguise tasks.
+  - Being rushed gives you a -2 to -5 penalty to Disguise tasks.
 
 ## Techniques
 
