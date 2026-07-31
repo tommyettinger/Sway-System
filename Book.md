@@ -77,7 +77,7 @@ A contested skill attempt is one where one or more other characters are opposing
    - Training in Focus also makes you Resistant 1 to Unarmed attack rolls.
 - **Healing**: First Aid {T/E}, Pharmacology+ {E}, Surgery+ {A&E}, Therapy {P}, Care {P}
    - Training in Healing also gives +1 to Unarmed Skill rolls.
-- **Influence**: Bargain {P}, Charm {P}, Bribe {P&E}, Intimidate {T/P}, Entertain {P}
+- **Influence**: Bargain {P}, Charm {P}, Bribe {P&E}, Intimidate {T/P}, Artistry {P}
    - Training in Influence also gives +1 to Command Skill rolls.
 - **Mechanics**: Demolish+ {E}, Fine Tune+ {A&E}, Jury Rig {T/A}, Repair {E}, Gauge {E}
    - Training in Mechanics also gives +1 to Ranged Weapon Skill rolls.
@@ -203,7 +203,7 @@ If you use a Technique with a Command attack, it treats the character issuing th
   - Convincing someone that you are telling the truth, when you aren't, is a contested task between your Deception:Bluff and their Perception:Insight. Convincing someone who already believes or wants to believe your lie is easier, giving them anywhere from -1 to -5 on their Perception:Insight task. If you aren't sure if you are telling the truth or not, but are trying to convince someone that you are certain, that is still a Deception:Bluff task.
   - Convincing a small group of people requires a contested task against each target's Perception:Insight separately. Some may be convinced, while others may not be.
   - Convincing a large crowd is actually easier than a small one, requiring only one difficult task to convince every unnamed character in the crowd. The result needed depends on how outlandish your lie is, and can range from 12 to 25 or higher. Any PCs or named/important NPCs can contest with their own Perception:Insight tasks.
-  - Deceiving from a position of authority is usually easier, if people trust your authority. This can give you anywhere from -5 to +5 on your Deception:Bluff tasks, depending on the sentiment towards your perceived organization. Convincing people you are a trustworthy figure may involve any of Deception:Disguise, Persuasion:Charm, and/or Stealth:Culture Blend.
+  - Deceiving from a position of authority is usually easier, if people trust your authority. This can give you anywhere from -5 to +5 on your Deception:Bluff tasks, depending on the sentiment towards your perceived organization. Convincing people you are a trustworthy figure may involve any of Deception:Disguise, Influence:Charm, and/or Stealth:Culture Blend.
   - If you actually believe your own falsehood, you can't use Deception at all, and use Influence:Charm instead.
   - When you attempt a Deception task, you don't know who believes you or not.
   - Players decide whether their PCs trust NPCs, not task results. The Narrator can present falsehoods as seeming true for deceptive-enough NPCs. While PCs can contest anything they doubt with an Insight:Perception task, with the information being revealed as false on a success, no one likes being doubted often.
@@ -212,6 +212,14 @@ If you use a Technique with a Command attack, it treats the character issuing th
   - Changing your appearance to match a specific person requires a contested task between your Deception:Disguise and Perception:Insight for each person you are trying to trick. Anyone who is at all familiar with who you are impersonating gains a bonus to their Perception:Insight task, from +2 to +10.
   - Having appropriate tools gives you a +2 bonus to Disguise tasks.
   - Being rushed gives you a -2 to -5 penalty to Disguise tasks.
+- Deception:Forgery {E}
+  - Writing text or creating documents that appear to be written by someone else is a difficult task, requiring a result of 16 or higher depending on how familiar you are with the writing style.
+  - Forging currency or official documents with security measures like wax seals or stamps requires specialized, illegal-to-possess tools to convince anyone but a distracted layperson. This is also much more difficult, requiring a result of 21 or much higher.
+  - Counterfeiting artwork or commercial products convincingly requires an Influence:Artistry task that determines the quality of the product, as well as a separate Deception:Forgery task to convince people that it is legitimate. Failing either task means that you are unlikely to be able to pass off your counterfeit as real, but succeeding at the Influence:Artistry task might mean you produce a good product that simply looks derivative.
+- Deception:Legerdemain {A&P}
+  - Sleight-of-hand, stage magic, and other trickery involving subtle movements requires contested tasks between your Deception:Legerdemain and Perception:Insight for each viewer. Any viewer who wins their contested task can tell that you did something deceitful, and if they succeed by 4 or more, they can tell more-or-less-exactly what happened.
+  - If you control a stage or otherwise have ample time to prepare your tricks, you gain a +1 to +5 bonus to Legerdemain tasks.
+  - If a viewer doesn't already suspect you might be trying to trick them, they take a -2 penalty to their contesting task.
 
 ## Techniques
 
