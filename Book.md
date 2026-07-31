@@ -38,15 +38,16 @@ Your stats do not change over time, but your equipment can change often, and you
 You have 10 points to allocate to stats, which can each be between 1 and 4. Typical spreads include:
 - `4, 3, 2, 1` for someone with one especially-good stat and one especially-bad one,
 - `4, 2, 2, 2` for someone with one especially-good stat but no other strengths or weaknesses,
+- `4, 4, 1, 1` for someone with two especially-good stats and two especially-bad ones,
 - `3, 3, 2, 2` for someone with two equally-good stats and two normal ones, or
 - `3, 3, 3, 1` for someone with three equally-good stats but one glaring weakness.
 
 The higher a stat is, the better you are at relevant uses of that stat with a skill. Each point in a stat also has specific other advantages in combat:
 
-- Toughness reduces the damage you take from Light attacks, which are fast and can't easily be dodged.
-- Agility reduces the damage you take from Heavy attacks, which are powerful attacks that armor won't stop.
-- Persona increases the effectiveness of all of your Talk actions in combat, which support allies or hinder foes.
-- Expertise gives you more Technique Points every round, which are used to improve your attacks in special ways.
+- Toughness reduces Light damage you take, which comes from attacks that are fast and can't easily be dodged. Every point of Toughness reduces Light damage taken by 2.
+- Agility reduces Heavy damage you take, which comes from powerful attacks that armor won't stop. Every point of Agility reduces Heavy damage taken by 2.
+- Persona increases the effectiveness of all of your Talk actions in combat, which support allies or hinder foes. Having a higher Persona makes every Talk action either affect more targets or have more effect on Offense or Defense tracks.
+- Expertise gives you a chance at more Technique Points every round, which are used to improve your attacks in special ways. Having a higher Expertise gives you Technique Points on more dice results, up to a maximum of 4 points in a turn.
 
 ## Skills
 
