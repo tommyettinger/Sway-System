@@ -234,6 +234,16 @@ If you use a Technique with a Command attack, it treats the character issuing th
   - Deciphering a language once gives you a +2 bonus on future tasks to decipher the same language in any format. Deciphering the same language successfully in both spoken and written formats means you automatically succeed at additional Decipher checks for that language, but doesn't mean you know that language proficiently, nor that you seem like a fluent speaker.
   - Deciphering a language takes much longer than understanding a language you are fluent in.
   - Tools ranging from phrasebooks to automated translators may exist in some settings. These have a quality that automatically passes Decipher tasks of a specific difficulty or lower, but only for specific languages (like an English-to-French dictionary only helps understand those two languages).
+- Education:Solve {E} (+Specialty only) 
+  - Finding a creative scientific solution to a problem that doesn't appear solvable is a difficult task, with a result needed of at least 20.
+  - Examples of this include opening a door by dissolving the lock with available chemicals, accessing a computer system by finding a vulnerability in its security, or crafting a system of pulleys and levers to strike an object with immense force.
+  - Settings where science isn't especially advanced, such as those before the Renaissance, may use this skill to represent traditional knowledge passed down over the ages, rather than modern scientific discoveries. It still works in about the same way, just using berries and frogs rather than household cleaning supplies.
+  - Settings with widespread access to magic include magic in the types of solutions this can use. This doesn't mean the skill user needs to be able to use magic themselves, as long as the problem is magical in nature or someone can provide the necessary supernatural ability.
+- Education:Research {E}
+  - Understanding how to find an existing answer to a known problem is an easy task, but can take considerable time.
+  - Conducting research in a rapid time scale is a difficult task, with a result needed of 18 or higher.
+  - The types of problem that you can figure out with Education:Solve can also be completed with Education:Research given the right access to libraries, databases, and/or scholars, as long as they have been solved by someone before. Even if the solution was never published, research can eventually find a comparable solution to one found in the heat of the moment. While Education:Solve requires a Specialty, Education:Research does not.
+  - Allies can help you conduct research as an easy task, with each succeeding ally granting a +1 bonus to your Research task.
 
 ## Techniques
 
