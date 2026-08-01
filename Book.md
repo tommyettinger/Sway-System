@@ -229,8 +229,8 @@ If you use a Technique with a Command attack, it treats the character issuing th
   - Allies can support your act by making easy Deception:Bluff tasks without preparation, or easy Deception:Disguise tasks with preparation. Each ally who supports you successfully grants +2 to your Feign Health task. Each ally who fails imposes a -1 penalty instead.
 - Education:Decipher {E}
   - Understanding a foreign language, either written or spoken, is a difficult task, needing a result of between 13 and 20 depending on how rare the language is or whether the writer/speaker is trying to make themselves understood.
-  - A character knows one language automatically, two if they are trained in Education, or three if they have a specialty in Education. This includes reading, writing, speaking, and understanding that language.
-  - If you know a similar-enough language already, you gain a +1 to +5 bonus on Decipher tasks.
+  - A character is fluent in one language automatically, two if they are trained in Education, or three if they have a specialty in Education. This includes reading, writing, speaking, and understanding that language.
+  - If you are fluent in a similar-enough language already, you gain a +1 to +5 bonus on Decipher tasks.
   - Deciphering a language once gives you a +2 bonus on future tasks to decipher the same language in any format. Deciphering the same language successfully in both spoken and written formats means you automatically succeed at additional Decipher checks for that language, but doesn't mean you know that language proficiently, nor that you seem like a fluent speaker.
   - Deciphering a language takes much longer than understanding a language you are fluent in.
   - Tools ranging from phrasebooks to automated translators may exist in some settings. These have a quality that automatically passes Decipher tasks of a specific difficulty or lower, but only for specific languages (like an English-to-French dictionary only helps understand those two languages).
@@ -244,6 +244,17 @@ If you use a Technique with a Command attack, it treats the character issuing th
   - Conducting research in a rapid time scale is a difficult task, with a result needed of 18 or higher.
   - The types of problem that you can figure out with Education:Solve can also be completed with Education:Research given the right access to libraries, databases, and/or scholars, as long as they have been solved by someone before. Even if the solution was never published, research can eventually find a comparable solution to one found in the heat of the moment. While Education:Solve requires a Specialty, Education:Research does not.
   - Allies can help you conduct research as an easy task, with each succeeding ally granting a +1 bonus to your Research task.
+- Education:Write {P/E}
+  - Writing high-quality text allows you to make Deception:Bluff, Influence:Bargain, or Influence:Charm tasks without actually being present in-person, as long as you are someone reads your text. The writing is an easy task, but you also need to make your Deception or Influence task separately.
+  - You can write in any language you are fluent in (see Education:Decipher), but not effectively in any language you aren't fluent in.
+  - Writing takes longer than attempting a Deception or Influence task verbally. Writing in a hurry is a difficult task with a result needed of at least 16.
+- Education:Broad Learning {E}
+  - Your bonus on Education:Broad Learning tasks determines approximately how much background knowledge you have picked up from reading, schooling, and general intellectual curiosity. This ranges from 1 (for an untrained character with 1 Expertise) to 9 (for a character with training and specialty in Education with 4 Expertise).
+  - A number of times per session equal to your bonus on Education:Broad Learning, you can claim you know some fact that is relevant to the situation, and the Narrator will tell you that fact if you spend a Favor die.
+  - Example facts might include "vampires hate the smell of garlic," "SUVs made by Rushing Motors are likely to lose control in a crash," or "the Galactic Court of Justice forbids the usage of singularity bombs."
+  - While knowing a fact doesn't guarantee it will be relevant in a situation, if a fact does become relevant in the same situation you claimed to know it, it will grant a +1 to +3 bonus on relevant tasks for anyone attempting them.
+  - If you know a fact from out-of-character knowledge, that doesn't mean it isn't true, just that you won't gain any particular bonuses on tasks from knowing it, and that your character doesn't consciously know that fact.
+  - Items can't grant higher bonuses to this.
 
 ## Techniques
 
