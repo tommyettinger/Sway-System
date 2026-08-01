@@ -210,7 +210,7 @@ If you use a Technique with a Command attack, it treats the character issuing th
 - Deception:Disguise {P}
   - Changing your appearance to match a generic uniform is a difficult task, requiring a result of 16 or higher depending on how high of a rank you need to impersonate.
   - Changing your appearance to match a specific person requires a contested task between your Deception:Disguise and Perception:Insight for each person you are trying to trick. Anyone who is at all familiar with who you are impersonating gains a bonus to their Perception:Insight task, from +2 to +10.
-  - Having appropriate tools gives you a +2 bonus to Disguise tasks.
+  - Having appropriate tools, ranging from common makeup to elaborate fabrication tools, gives you a +1 to +5 bonus to Disguise tasks.
   - Being rushed gives you a -2 to -5 penalty to Disguise tasks.
 - Deception:Forgery {E}
   - Writing text or creating documents that appear to be written by someone else is a difficult task, requiring a result of 16 or higher depending on how familiar you are with the writing style.
@@ -220,6 +220,20 @@ If you use a Technique with a Command attack, it treats the character issuing th
   - Sleight-of-hand, stage magic, and other trickery involving subtle movements requires contested tasks between your Deception:Legerdemain and Perception:Insight for each viewer. Any viewer who wins their contested task can tell that you did something deceitful, and if they succeed by 4 or more, they can tell more-or-less-exactly what happened.
   - If you control a stage or otherwise have ample time to prepare your tricks, you gain a +1 to +5 bonus to Legerdemain tasks.
   - If a viewer doesn't already suspect you might be trying to trick them, they take a -2 penalty to their contesting task.
+- Deception:Feign Health {T&P}
+  - Making your physical condition appear better, worse, or different than it actually is involves a contested task between your Deception:Feign Health and Perception:Insight for each viewer. Any viewer who wins their contested task can tell you aren't being truthful, but not exactly how unless they succeed by 4 or more.
+  - If a viewer is trained in Healing, they gain a +3 bonus on their contested task. If they have a specialty in Healing, they gain an additional +2 bonus.
+  - If you have time and materials to alter your appearance, such as by creating fake wounds or applying makeup to actual wounds, you gain a +1 to +5 bonus to Feign Health tasks. The same tools used to create a disguise can be used for this.
+  - If a viewer doesn't already suspect you might be trying to trick them, they take a -2 penalty to their contesting task.
+  - Feigning death, rather than merely injury, is more challenging. You take a -3 penalty to Feign Health tasks to fake your own death.
+  - Allies can support your act by making easy Deception:Bluff tasks without preparation, or easy Deception:Disguise tasks with preparation. Each ally who supports you successfully grants +2 to your Feign Health task. Each ally who fails imposes a -1 penalty instead.
+- Education:Decipher {E}
+  - Understanding a foreign language, either written or spoken, is a difficult task, needing a result of between 13 and 20 depending on how rare the language is or whether the writer/speaker is trying to make themselves understood.
+  - A character knows one language automatically, two if they are trained in Education, or three if they have a specialty in Education. This includes reading, writing, speaking, and understanding that language.
+  - If you know a similar-enough language already, you gain a +1 to +5 bonus on Decipher tasks.
+  - Deciphering a language once gives you a +2 bonus on future tasks to decipher the same language in any format. Deciphering the same language successfully in both spoken and written formats means you automatically succeed at additional Decipher checks for that language, but doesn't mean you know that language proficiently, nor that you seem like a fluent speaker.
+  - Deciphering a language takes much longer than understanding a language you are fluent in.
+  - Tools ranging from phrasebooks to automated translators may exist in some settings. These have a quality that automatically passes Decipher tasks of a specific difficulty or lower, but only for specific languages (like an English-to-French dictionary only helps understand those two languages).
 
 ## Techniques
 
