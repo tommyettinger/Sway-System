@@ -142,7 +142,7 @@ Command attacks need you to be able to communicate visually or verbally with a s
 
 If you use a Technique with a Command attack, it treats the character issuing the command as the attacker. Counterattacks or other responses to an attack apply to the character receiving the command.
 
-- **Command (Riot)**: Mob Rule {P}, Incite+ {P}, Vandalize {A/P}, Guerrilla Movement {A}
+- **Command (Riot)**: Mob Rule {P}, Incite+ {P}, Vandalize {A}, Distract {A/P}
   - Attack by rousing a group of allies to fight; relies purely on anger and passion.
 - **Command (Tactical)**: Battlefront Push {P/E}, Strategy+ {E}, Secure Area {E}, Adapt {A}
   - Attack by pointing allies to holes in enemy defenses; predicts battle scenarios.
@@ -255,6 +255,13 @@ If you use a Technique with a Command attack, it treats the character issuing th
   - While knowing a fact doesn't guarantee it will be relevant in a situation, if a fact does become relevant in the same situation you claimed to know it, it will grant a +1 to +3 bonus on relevant tasks for anyone attempting them.
   - If you know a fact from out-of-character knowledge, that doesn't mean it isn't true, just that you won't gain any particular bonuses on tasks from knowing it, and that your character doesn't consciously know that fact.
   - Items can't grant higher bonuses to this.
+- Focus:Calm {P}
+  - Staying calm in the face of something terrifying is a difficult task, with a result needed of anywhere from 12 to much higher. Each time you fail this task out of combat, the Narrator can opt to cancel an action you choose if it isn't appropriate to someone terrified (running away is always allowed, but hitting the right switch might not be). If your action is canceled, your turn ends.
+  - Typically, tasks to stay calm should only be required once for each PC per non-combat situation, even if the terrifying event is ongoing. For NPCs, it may be required many times.
+- Focus;Concentrate {T}
+  - Concentrating on anything mentally difficult while someone intentionally distracts you is a contested task against their Command (Riot):Distract.
+  - Concentrating on anything mentally difficult while something passively distracts you, like an alarm siren, is an easy task.
+  - If your concentration is broken on a mental task, you can attempt the task again from the beginning on your next turn.
 
 ## Techniques
 
