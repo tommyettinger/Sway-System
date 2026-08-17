@@ -262,6 +262,14 @@ If you use a Technique with a Command attack, it treats the character issuing th
   - Concentrating on anything mentally difficult while someone intentionally distracts you is a contested task against their Command (Riot):Distract.
   - Concentrating on anything mentally difficult while something passively distracts you, like an alarm siren, is an easy task.
   - If your concentration is broken on a mental task, you can attempt the task again from the beginning on your next turn.
+- Focus:Second Wind {T}
+  - When you fail a physical task but can potentially try again, you can attempt a difficult task with a result needed of 20. Succeeding on this task gives you a +2 bonus on your next attempt of the same task. Failing on this task prevents you from making any more Second Wind attempts in the current situation.
+  - Some physical tasks are simply impossible to try again. For instance, throwing an object over an impassable pit and failing could drop the object into the pit, and then you can't throw it again even with Second Wind.
+  - Using Second Wind takes your turn in a non-combat situation or your action in a combat situation. It involves catching your breath and regaining your composure, which takes a short amount of time.
+- Focus:Persevere {T}
+  - If you are interrupted during a skill attempt because you suffer physical pain or harm, continuing to use that skill requires a difficult task with a result needed of at least 10. The result needed goes up by 1 for every point of damage you took that round.
+  - Like with Focus:Concentrate, if you are interrupted during a mental task and fail your Persevere attempt, you can attempt the task again from the beginning on your next turn.
+  - If you are interrupted during a physical task and fail your Persevere attempt, you also fail the physical task, but may be able to try again later.
 
 ## Techniques
 
