@@ -67,19 +67,19 @@ A contested skill attempt is one where one or more other characters are opposing
 
 - **Acrobatics**: Catch {A}, Escape {T/A}, Maneuver {A}, Tumble+ {A}, Moving Recovery {T&A}
    - Training in Acrobatics also makes you Resistant 1 to Melee Weapon attack rolls.
-- **Athletics**: Climb {T}, Endure {T}, Jump {T/A}, Swim {T/A}, Throw {A}
+- **Athletics**: Climb {T}, Endure {T}, Jump {T/A}, Swim {T/A}, Throw {T&A}
    - Training in Athletics also gives +1 to Melee Weapon Skill rolls.
 - **Deception**: Bluff {P}, Disguise {P}, Forgery {E}, Legerdemain {A&P}, Feign Health {T&P}
    - Training in Deception also makes you Resistant 1 to Command attack rolls.
 - **Education**: Decipher {E}, Solve+ {E}, Research {E}, Write {P/E}, Broad Learning {E}
 	- Training in Education also gives +1 to Mechanics rolls.
-- **Focus**: Calm {P}, Concentrate {T}, Second Wind {T}, Persevere {T}, Courage {T/P}
+- **Focus**: Calm {P}, Concentrate {E}, Second Wind {T}, Persevere {T}, Courage {T/P}
    - Training in Focus also makes you Resistant 1 to Unarmed attack rolls.
 - **Healing**: First Aid {T/E}, Pharmacology+ {E}, Surgery+ {A&E}, Therapy {P}, Care {P}
    - Training in Healing also gives +1 to Unarmed Skill rolls.
 - **Influence**: Bargain {P}, Charm {P}, Bribe {P&E}, Intimidate {T/P}, Artistry {P}
    - Training in Influence also gives +1 to Command Skill rolls.
-- **Mechanics**: Demolish+ {E}, Fine Tune+ {A&E}, Jury Rig {T/A}, Repair {E}, Gauge {E}
+- **Mechanics**: Demolish+ {E}, Fine Tune+ {A&E}, Handiwork {T/A}, Repair {E}, Gauge {E}
    - Training in Mechanics also gives +1 to Ranged Weapon Skill rolls.
 - **Nature**: Handle Animal {P}, Wild Lore {E}, Survival {T}, Track+ {A}, Ride {T/A}
 	- Training in Nature also gives +1 to Healing rolls.
@@ -118,10 +118,10 @@ A setting chooses which skill to have, either **Ranged (Military)** or **Ranged 
   - Crossbows, blowguns, whatever firearms are common in the era. Simple traps.
   - In the modern day, this includes all firearms except those mounted on vehicles.
   - In periods before The Renaissance, this does not include any firearms.
-- **Ranged (Military)**: Honed Assault {A&E}, Calibrate+ {E}, Maintain+ {E}, Make Way {P}
+- **Ranged (Military)**: Heavy Assault {T&E}, Calibrate+ {E}, Maintain+ {E}, Make Way {P}
   - Siege and vehicle weapons; flamethrowers, grenades, explosives. Any new ranged weapons.
   - In periods before The Renaissance, this can include firearms if they are available.
-- **Ranged (Energy)**: Energy Barrage {A&E}, Infuse+ {E}, Maintain+ {E}, Make Way {P}
+- **Ranged (Energy)**: Energy Blast {T&E}, Infuse+ {E}, Maintain+ {E}, Make Way {P}
   - Magical wands, staves, rods, tomes, and so on that allow attacks with basic magic.
   - Some settings may use this skill for fire, chemical weapons, and vehicle weapons instead.
 
@@ -131,7 +131,7 @@ Unarmed attacks need you to be near your target and make contact. Training with 
 
 - **Unarmed (Brawling)**: Rough Blow {T}, Challenge+ {T&P}, Grapple {T}, Grit+ {T}
   - Boxing, wrestling, street-fighting. Fighting styles that emphasize toughness.
-- **Unarmed (Striking)**: Swift Strike {A}, Shout+ {P}, Throw {T&A}, Disarm+ {A&E}
+- **Unarmed (Striking)**: Swift Strike {T&A}, Shout+ {P}, Throw {T&A}, Disarm+ {A&E}
   - Fighting styles that emphasize fighting armed opponents with speed and intimidation.
 - **Unarmed (Yielding)**: Passive Resist {E}, Taunt+ {P}, Pin {T}, Redirect+ {A&P}
   - Fighting styles that emphasize avoiding attacks and frustrating enemies so they relent.
@@ -193,7 +193,7 @@ If you use a Technique with a Command attack, it treats the character issuing th
   - Failing a task to move through water means you don't make any progress, and must succeed at a difficult task to tread water (with its normal result needed and penalties).
   - Failing a task to tread water means you go underwater, and have three turns to hold your breath before you begin to drown.
   - If the water you are in is moving, failing any task to move through water or making any attempt to tread water moves you in the direction of the current.
-- Athletics:Throw {A}
+- Athletics:Throw {T&A}
   - Tossing a hand-held object to someone softly, so they can catch it, is an easy task.
   - Hurling a hand-held object past someone trying to intercept it is a contested task between your Athletics:Throw and their Acrobatics:Catch, with the interceptor taking a -5 penalty.
   - Hitting a small, moving, or distant target with a thrown object can be either a difficult Ranged Weapon (Forceful):Mighty Launch task or a difficult Athletics:Throw task, your choice. The result needed is at least 16. If you are trying to cause damage to your target with a thrown object, that is always a Ranged Weapon (Forceful):Mighty Launch task, and uses combat rules for an attack.
@@ -258,7 +258,7 @@ If you use a Technique with a Command attack, it treats the character issuing th
 - Focus:Calm {P}
   - Staying calm in the face of something terrifying is a difficult task, with a result needed of anywhere from 12 to much higher. Each time you fail this task out of combat, the Narrator can opt to cancel an action you choose if it isn't appropriate to someone terrified (running away is always allowed, but hitting the right switch might not be). If your action is canceled, your turn ends.
   - Typically, tasks to stay calm should only be required once for each PC per non-combat situation, even if the terrifying event is ongoing. For NPCs, it may be required many times.
-- Focus;Concentrate {T}
+- Focus:Concentrate {E}
   - Concentrating on anything mentally difficult while someone intentionally distracts you is a contested task against their Command (Riot):Distract.
   - Concentrating on anything mentally difficult while something passively distracts you, like an alarm siren, is an easy task.
   - If your concentration is broken on a mental task, you can attempt the task again from the beginning on your next turn.
