@@ -256,8 +256,10 @@ If you use a Technique with a Command attack, it treats the character issuing th
   - If you know a fact from out-of-character knowledge, that doesn't mean it isn't true, just that you won't gain any particular bonuses on tasks from knowing it, and that your character doesn't consciously know that fact.
   - Items can't grant higher bonuses to this.
 - Focus:Calm {P}
-  - Staying calm in the face of something terrifying is a difficult task, with a result needed of anywhere from 12 to much higher. Each time you fail this task out of combat, the Narrator can opt to cancel an action you choose if it isn't appropriate to someone terrified (running away is always allowed, but hitting the right switch might not be). If your action is canceled, your turn ends.
-  - Typically, tasks to stay calm should only be required once for each PC per non-combat situation, even if the terrifying event is ongoing. For NPCs, it may be required many times.
+  - Calming someone down who is terrified or agitated is a difficult task, with a result needed of at least 18. The result needed can go up in extreme cases.
+  - If one person fails at a Calm attempt, other people can try, but the same person can't try twice.
+  - You can't calm anyone down if you are terrified yourself.
+  - Calming someone down takes your turn unless you do it as a response to someone failing a Focus:Courage attempt. Calming as a response takes no time, but you can only try it once per round.
 - Focus:Concentrate {E}
   - Concentrating on anything mentally difficult while someone intentionally distracts you is a contested task against their Command (Riot):Distract.
   - Concentrating on anything mentally difficult while something passively distracts you, like an alarm siren, is an easy task.
@@ -270,6 +272,16 @@ If you use a Technique with a Command attack, it treats the character issuing th
   - If you are interrupted during a skill attempt because you suffer physical pain or harm, continuing to use that skill requires a difficult task with a result needed of at least 10. The result needed goes up by 1 for every point of damage you took that round.
   - Like with Focus:Concentrate, if you are interrupted during a mental task and fail your Persevere attempt, you can attempt the task again from the beginning on your next turn.
   - If you are interrupted during a physical task and fail your Persevere attempt, you also fail the physical task, but may be able to try again later.
+- Focus:Courage {T/P}
+  - Acting normally in the face of something terrifying is a difficult task, with a result needed of anywhere from 12 to much higher. Each time you fail this task out of combat, the Narrator can opt to cancel an action you choose if it isn't appropriate to someone terrified (running away is always allowed, but hitting the right switch might not be). If your action is canceled, your turn ends unless someone else succeeds at a Focus:Calm task.
+  - Typically, Courage tasks should only be required once for each PC per non-combat situation, even if the terrifying event is ongoing. For NPCs, it may be required many times.
+- Healing:First Aid {T/E}
+  - Performing emergency treatment for any kind of injury or health problem is a difficult task, with a result needed of at least 15, and potentially much higher.
+  - Common treatments like stopping bleeding or getting someone to cough up something they are choking on only need a result of 15. More involved treatments like resuscitating someone who has stopped breathing or reattaching a nearly-severed extremity need higher results.
+  - Some kinds of treatment may require specialized equipment, like a defibrillator or antivenom.
+  - Having the right equipment for general medical care gives a +2 bonus to First Aid attempts.
+  - In settings with magical healing, First Aid can be magical rather than medical in nature, but still requires the same skill. A magical Item like a minor healing potion can automatically succeed on a single First Aid task with a result needed of 15 or lower; the Item is then consumed.
+  - In settings with advanced technology, medical treatments with specific tools may work akin to magical Items, automatically making First Aid tasks with low enough results needed.
 
 ## Techniques
 
