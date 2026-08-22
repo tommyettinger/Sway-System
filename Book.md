@@ -75,7 +75,7 @@ A contested skill attempt is one where one or more other characters are opposing
 	- Training in Education also gives +1 to Mechanics rolls.
 - **Focus**: Calm {P}, Concentrate {E}, Second Wind {T}, Persevere {T}, Courage {T/P}
    - Training in Focus also makes you Resistant 1 to Unarmed attack rolls.
-- **Healing**: First Aid {T/E}, Pharmacology+ {E}, Surgery+ {A&E}, Therapy {P}, Care {P}
+- **Healing**: First Aid {T/E}, Diagnosis {P}, Pharmacology+ {E}, Surgery+ {A&E}, Therapy {P}
    - Training in Healing also gives +1 to Unarmed Skill rolls.
 - **Influence**: Bargain {P}, Charm {P}, Bribe {P&E}, Intimidate {T/P}, Artistry {P}
    - Training in Influence also gives +1 to Command Skill rolls.
@@ -280,8 +280,22 @@ If you use a Technique with a Command attack, it treats the character issuing th
   - Common treatments like stopping bleeding or getting someone to cough up something they are choking on only need a result of 15. More involved treatments like resuscitating someone who has stopped breathing or reattaching a nearly-severed extremity need higher results.
   - Some kinds of treatment may require specialized equipment, like a defibrillator or antivenom.
   - Having the right equipment for general medical care gives a +2 bonus to First Aid attempts.
-  - In settings with magical healing, First Aid can be magical rather than medical in nature, but still requires the same skill. A magical Item like a minor healing potion can automatically succeed on a single First Aid task with a result needed of 15 or lower; the Item is then consumed.
+  - In settings with magical healing, First Aid can be magical rather than technological in nature, but still requires the same skill. A magical Item like a minor healing potion can automatically succeed on a single First Aid task with a result needed of 15 or lower; the Item is then consumed.
   - In settings with advanced technology, medical treatments with specific tools may work akin to magical Items, automatically making First Aid tasks with low enough results needed.
+- Healing:Diagnosis {P}
+  - Figuring out how someone is ill, and why, is a difficult task with a result needed of at least 15. Succeeding at a Diagnosis task is usually required before more-involved medical tasks can be attempted at all.
+  - If someone is trying to conceal that they are ill, or fake having an illness they don't have, you can make a contested task of your Healing:Diagnosis against their Deception:Feign Health. If you succeed, you can see through their entire deception. If they succeed, you are considered to fail your Diagnosis task.
+  - Diagnosing someone takes time. Rushing a diagnosis in an emergency applies a -4 penalty to your result. An emergency diagnosis can be attempted in one round, in or out of combat.
+  - Having some kind of medical tools provides a +2 bonus to Diagnosis tasks. Having a full hospital available provides a +4 bonus instead.
+- Healing: Pharmacology {E} (+Specialty only)
+  - Utilizing medicines, drugs, and/or poisons, to heal or harm, in creative ways is a difficult Pharmacology task, with a result needed of 18 or higher depending on complexity.
+  - Identifying medicines, drugs, and poisons you find is an easy task, though this still requires a Healing specialty to do.
+  - Just taking a pill or injecting an already-prepared medicine does not require a skill task, but creating a pill or mixing a cocktail of medicines does require one.
+  - Applying a poison or drug so it can take effect, likewise, does not require a skill task, but creating and maintaining a poison that can be delivered via a weapon does require a skill task. For example, applying poison to an arrow doesn't require a skill task, but creating the poison and making it safely applicable to an arrow does require one. A shaman with a Healing specialty might be the one taking poisonous herbs and making the poison for hunters to later apply as they need. The hunters would not need to attempt skill tasks to do so.
+  - In settings with magical healing, Pharmacology can be magical rather than technological in nature, but still requires the same skill. Pharmacology can be used to brew healing potions and cursed potables alike. A character trained in magical Healing can't understand technological medical items, and vice versa.
+  - In settings with magical healing or advanced technology, you can attempt a difficult Pharmacology task once per downtime to create a healing item. If your result is 20 or higher, you create a healing item that automatically makes one Healing:First Aid task with a result needed equal to your Pharmacology result minus 5 or lower. For example, if you get a Pharmacology result of 25, you create a healing item (such as a potion) that automatically succeeds at a Healing:First Aid task with a result needed of 20 or lower.
+  - Creating medicines, drugs, or poisons for later use takes substantial time, and can only be done during downtime. Identifying healing or toxic items using magic or advanced technology can be done in one turn out of combat.
+  - Access to some kind of medical tools is required to attempt Pharmacology tasks. Having a full hospital available provides a +2 bonus.
 
 ## Techniques
 
