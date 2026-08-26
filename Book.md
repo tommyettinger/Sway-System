@@ -75,7 +75,7 @@ A contested skill attempt is one where one or more other characters are opposing
 	- Training in Education also gives +1 to Mechanics rolls.
 - **Focus**: Calm {P}, Concentrate {E}, Second Wind {T}, Persevere {T}, Courage {T/P}
    - Training in Focus also makes you Resistant 1 to Unarmed attack rolls.
-- **Healing**: First Aid {T/E}, Diagnosis {P}, Pharmacology+ {E}, Surgery+ {A&E}, Therapy {P}
+- **Healing**: First Aid {T/E}, Diagnose {P}, Pharmacology+ {E}, Surgery+ {A&E}, Therapy {P}
    - Training in Healing also gives +1 to Unarmed Skill rolls.
 - **Influence**: Bargain {P}, Charm {P}, Bribe {P&E}, Intimidate {T/P}, Artistry {P}
    - Training in Influence also gives +1 to Command Skill rolls.
@@ -282,11 +282,11 @@ If you use a Technique with a Command attack, it treats the character issuing th
   - Having the right equipment for general medical care gives a +2 bonus to First Aid attempts.
   - In settings with magical healing, First Aid can be magical rather than technological in nature, but still requires the same skill. A magical Item like a minor healing potion can automatically succeed on a single First Aid task with a result needed of 15 or lower; the Item is then consumed.
   - In settings with advanced technology, medical treatments with specific tools may work akin to magical Items, automatically making First Aid tasks with low enough results needed.
-- Healing:Diagnosis {P}
-  - Figuring out how someone is ill, and why, is a difficult task with a result needed of at least 15. Succeeding at a Diagnosis task is usually required before more-involved medical tasks can be attempted at all.
-  - If someone is trying to conceal that they are ill, or fake having an illness they don't have, you can make a contested task of your Healing:Diagnosis against their Deception:Feign Health. If you succeed, you can see through their entire deception. If they succeed, you are considered to fail your Diagnosis task.
+- Healing:Diagnose {P}
+  - Figuring out how someone is ill, and why, is a difficult task with a result needed of at least 15. Succeeding at a Diagnose task is usually required before more-involved medical tasks can be attempted at all.
+  - If someone is trying to conceal that they are ill, or fake having an illness they don't have, you can make a contested task of your Healing:Diagnose against their Deception:Feign Health. If you succeed, you can see through their entire deception. If they succeed, you are considered to fail your Diagnose task.
   - Diagnosing someone takes time. Rushing a diagnosis in an emergency applies a -4 penalty to your result. An emergency diagnosis can be attempted in one round, in or out of combat.
-  - Having some kind of medical tools provides a +2 bonus to Diagnosis tasks. Having a full hospital available provides a +4 bonus instead.
+  - Having some kind of medical tools provides a +2 bonus to Diagnose tasks. Having a full hospital available provides a +4 bonus instead.
 - Healing: Pharmacology {E} (+Specialty only)
   - Utilizing medicines, drugs, and/or poisons, to heal or harm, in creative ways is a difficult Pharmacology task, with a result needed of 18 or higher depending on complexity.
   - Identifying medicines, drugs, and poisons you find is an easy task, though this still requires a Healing specialty to do.
@@ -296,6 +296,19 @@ If you use a Technique with a Command attack, it treats the character issuing th
   - In settings with magical healing or advanced technology, you can attempt a difficult Pharmacology task once per downtime to create a healing item. If your result is 20 or higher, you create a healing item that automatically makes one Healing:First Aid task with a result needed equal to your Pharmacology result minus 5 or lower. For example, if you get a Pharmacology result of 25, you create a healing item (such as a potion) that automatically succeeds at a Healing:First Aid task with a result needed of 20 or lower.
   - Creating medicines, drugs, or poisons for later use takes substantial time, and can only be done during downtime. Identifying healing or toxic items using magic or advanced technology can be done in one turn out of combat.
   - Access to some kind of medical tools is required to attempt Pharmacology tasks. Having a full hospital available provides a +2 bonus.
+- Healing: Surgery {A&E} (+Specialty only)
+  - Performing major medical repairs to someone is a difficult task with a result needed of at least 18.
+  - This can include different levels of expected recovery and time taken by the technology level of the setting and the presence or absence of healing magic. Advanced technology might permit mechanical prostheses that are indistinguishable from a normal body part, if such a part is available. Similarly, healing magic might allow the full regeneration of the original body part in a short amount of time. Low-technology settings without healing magic have limits for what Surgery can do; typically a peg-leg style prosthesis or a hook hand might be all that could be done.
+  - Surgery can also include installing augmentations in settings with advanced technology or healing magic. This essentially converts a compatible Item into a Trait that can't be removed, if the Surgery task succeeds, or damages the Item if the task fails.
+  - Surgery requires a successful Healing:Diagnose task to have already been completed before a surgery can even be prepared.
+  - Any surgery takes substantial time (more than Healing:First Aid), and can only be performed during downtime.
+  - Access to some kind of medical tools is required to attempt Surgery tasks. Having a full hospital available provides a +2 bonus.
+- Healing:Therapy {P}
+  - Healing someone's mind after they have suffered mental trauma or had their mind attacked supernaturally is a series of difficult tasks, with a result needed for each of at least 16.
+  - Each success on a Therapy attempt only makes partial progress. There is no hard limit to how many Therapy successes are needed before an NPC is fully "mentally healed," but a PC only needs one success before they can get back to being a mostly-functional adventuring combatant. For NPCs, each Therapy success allows one question they couldn't answer before (for whatever reason) to be answered at least partly. For example, if an NPC had their memory wiped by a psychic demon, the first Therapy success would allow them to remember one fact that had previously been wiped. Getting someone to remember that they had faced a demon of any kind might not be a good idea, and could be a mental trauma in itself. Consider your questions carefully.
+  - Failing a Therapy task by 5 or more causes a setback in the recovery process, and requires an additional success to address each setback before any more questions can be asked.
+  - Therapy takes substantial time per attempt, and can only be performed during downtime.
+
 
 ## Techniques
 
